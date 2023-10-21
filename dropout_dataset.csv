@@ -1,0 +1,1001 @@
+School ID,Total Students,Economic Status,Geographic Location,Socioeconomic Indicator,Distance to School (km),Gender,Caste/Community,Socioeconomic Indicator for Caste,Age,Current Grade,Dropout Reason
+School_1,971,Private,City,Low,1.2216904105560051,Female,OBC,Low,6,4,Lack of Interest
+School_2,186,Private,Town,High,4.010828847580813,Female,ST,High,7,1,Other
+School_3,899,Public,Town,Low,1.772359913747448,Other,ST,Medium,17,11,Other
+School_4,650,Government-Aided,Rural,Medium,1.680554155421314,Other,General,Low,15,12,Lack of Interest
+School_5,978,Government-Aided,Town,Low,9.648407308245238,Female,ST,High,15,4,Family Issues
+School_6,337,Government-Aided,Town,Low,8.286293597155062,Other,SC,Low,12,2,Family Issues
+School_7,448,Public,Rural,Medium,0.5909176641270184,Other,ST,High,8,6,Family Issues
+School_8,809,Private,Urban,Low,1.5498220025221343,Other,OBC,Low,9,9,Lack of Interest
+School_9,775,Public,Rural,High,6.489362220132953,Other,OBC,High,8,9,Lack of Interest
+School_10,58,Public,Rural,High,9.170263889856304,Male,General,High,17,2,Health Issues
+School_11,448,Private,City,High,5.26212785640404,Male,SC,High,11,1,Financial Problems
+School_12,250,Public,City,Low,5.189304419537805,Female,General,Low,7,11,Lack of Interest
+School_13,306,Public,City,High,8.392826005942329,Female,SC,High,5,7,Other
+School_14,466,Public,Urban,Low,3.3671519778574823,Male,ST,High,17,3,Family Issues
+School_15,858,Private,Rural,Medium,1.4946306361870847,Female,OBC,Low,10,8,Lack of Interest
+School_16,611,Public,Urban,Medium,3.883551053547248,Male,SC,Medium,17,5,Health Issues
+School_17,344,Public,Town,High,0.7748238209509752,Female,General,Medium,12,7,Other
+School_18,361,Public,Rural,Low,9.844911977451536,Female,General,High,18,9,Financial Problems
+School_19,747,Public,City,Medium,1.9309440989341806,Female,General,High,12,4,Health Issues
+School_20,163,Government-Aided,Urban,Medium,8.818965400410912,Female,General,High,16,5,Health Issues
+School_21,911,Private,City,High,4.91882384662035,Other,General,High,11,2,Other
+School_22,894,Private,Urban,Low,7.521860473910438,Other,ST,Medium,12,4,Financial Problems
+School_23,360,Private,Rural,Low,1.7723751681575575,Female,SC,High,17,6,Lack of Interest
+School_24,525,Public,Rural,Low,5.542966744149955,Other,SC,Low,18,9,Lack of Interest
+School_25,424,Public,Rural,Medium,8.493329965333142,Male,ST,Low,6,7,Other
+School_26,572,Public,Rural,Medium,3.2140801335939146,Other,SC,Medium,9,10,Other
+School_27,833,Public,City,Medium,0.7020812114999836,Male,General,Medium,11,12,Other
+School_28,514,Public,Rural,Medium,6.557972391481186,Male,OBC,High,16,2,Health Issues
+School_29,663,Government-Aided,City,High,4.682172603138631,Other,OBC,Low,15,3,Family Issues
+School_30,579,Public,City,Low,6.596915494042879,Other,General,High,17,11,Financial Problems
+School_31,60,Government-Aided,Urban,Medium,3.995800642742303,Female,SC,High,6,11,Other
+School_32,878,Private,Urban,Medium,7.399298147795633,Other,SC,High,8,7,Other
+School_33,507,Private,Town,Low,3.0443918885645824,Other,SC,Low,15,11,Financial Problems
+School_34,705,Private,Town,Low,2.521032268599509,Female,OBC,Low,17,9,Family Issues
+School_35,194,Public,City,High,8.4595266641683,Male,OBC,Medium,17,8,Family Issues
+School_36,206,Public,City,Low,4.135112217084412,Female,SC,High,17,1,Financial Problems
+School_37,967,Private,City,Low,3.7059102610298433,Female,OBC,Low,9,12,Lack of Interest
+School_38,687,Private,Rural,Low,1.4762000883517745,Female,General,Medium,7,5,Lack of Interest
+School_39,682,Public,Rural,High,5.669333618943015,Other,ST,High,18,10,Other
+School_40,148,Government-Aided,Urban,High,8.583154604929616,Male,General,Low,6,1,Financial Problems
+School_41,221,Government-Aided,City,Medium,3.0767844610380526,Other,OBC,High,8,1,Family Issues
+School_42,689,Public,Town,Medium,0.5327217624421459,Male,OBC,High,13,9,Health Issues
+School_43,236,Government-Aided,Rural,Medium,5.232815633352924,Female,ST,High,5,11,Family Issues
+School_44,814,Government-Aided,Town,Low,3.237195166398311,Male,ST,Low,14,7,Other
+School_45,838,Public,Town,Medium,2.1519959886143663,Other,SC,Low,17,7,Health Issues
+School_46,736,Public,Urban,High,0.7797504508656933,Female,OBC,High,14,9,Health Issues
+School_47,494,Private,Rural,Medium,8.035350458959845,Female,ST,Low,9,1,Lack of Interest
+School_48,712,Private,Rural,High,1.7761062599005975,Male,ST,Low,15,6,Other
+School_49,977,Government-Aided,City,High,1.6087683050255572,Other,SC,Medium,11,12,Health Issues
+School_50,983,Public,City,Medium,9.201641555643874,Female,General,Medium,16,7,Lack of Interest
+School_51,494,Government-Aided,City,High,6.97052390323813,Female,ST,High,16,10,Other
+School_52,943,Private,Urban,Low,5.418765555479567,Female,OBC,Medium,9,2,Other
+School_53,849,Private,Urban,Medium,7.52854196053851,Male,ST,High,15,11,Lack of Interest
+School_54,764,Private,Urban,Low,7.02965209170275,Female,OBC,Low,18,3,Financial Problems
+School_55,252,Private,Rural,High,2.230654336393257,Other,OBC,High,5,12,Lack of Interest
+School_56,894,Private,Town,High,1.8196031366755228,Other,SC,High,10,10,Health Issues
+School_57,473,Public,Rural,High,8.951881333283014,Female,SC,High,5,5,Other
+School_58,171,Private,Town,Medium,9.639847119367468,Female,SC,Medium,9,3,Financial Problems
+School_59,710,Government-Aided,Rural,Low,1.7730184111183707,Male,ST,Medium,16,1,Lack of Interest
+School_60,274,Public,City,Medium,7.9353275702851125,Female,ST,High,12,2,Health Issues
+School_61,503,Public,Urban,High,7.9010620821335245,Other,SC,Low,16,6,Other
+School_62,497,Public,Rural,Low,4.666686288282647,Male,ST,Medium,12,6,Financial Problems
+School_63,607,Private,City,Low,8.559030550970638,Other,SC,Low,10,11,Other
+School_64,143,Private,Town,Low,6.280705557213245,Other,SC,High,15,12,Lack of Interest
+School_65,218,Private,Urban,High,3.8757143876313394,Other,SC,High,18,6,Health Issues
+School_66,595,Private,Rural,Low,7.426835288073228,Male,ST,Low,11,8,Financial Problems
+School_67,271,Private,City,High,0.6751763660365031,Female,General,Medium,7,2,Lack of Interest
+School_68,743,Government-Aided,Urban,Low,8.697768986136925,Male,SC,Medium,9,3,Family Issues
+School_69,721,Government-Aided,Rural,Medium,6.184426662803984,Female,General,High,8,10,Health Issues
+School_70,265,Government-Aided,City,Low,1.2311196881432924,Male,ST,Low,13,2,Lack of Interest
+School_71,770,Private,Town,High,2.719252126754589,Female,SC,Low,17,2,Health Issues
+School_72,853,Public,Rural,High,4.47743877780741,Female,General,Low,6,11,Financial Problems
+School_73,80,Private,Rural,Medium,6.177782941614027,Female,General,Medium,11,6,Financial Problems
+School_74,983,Private,City,Low,2.8329063397142646,Female,OBC,Low,15,2,Family Issues
+School_75,864,Private,Town,High,5.857562444258096,Male,SC,Medium,14,9,Financial Problems
+School_76,500,Private,City,Medium,6.45602939675789,Male,General,Low,9,5,Lack of Interest
+School_77,759,Government-Aided,Rural,High,6.064151968213416,Male,ST,Medium,7,7,Family Issues
+School_78,83,Public,City,Low,4.185516580984832,Female,General,Low,7,9,Lack of Interest
+School_79,356,Public,Rural,Medium,9.490731487026375,Male,OBC,Low,14,1,Family Issues
+School_80,418,Government-Aided,Town,High,6.247030525182118,Female,ST,Medium,14,3,Financial Problems
+School_81,556,Government-Aided,City,Low,4.230578614601157,Female,General,High,14,9,Financial Problems
+School_82,936,Public,Town,Medium,3.2676801129215267,Other,General,High,8,11,Health Issues
+School_83,228,Government-Aided,Urban,Low,1.6306149447228668,Other,SC,High,7,3,Financial Problems
+School_84,383,Government-Aided,Rural,Medium,4.110004294794161,Female,General,High,11,11,Financial Problems
+School_85,500,Public,Rural,High,2.6539108707483674,Female,SC,Low,14,12,Other
+School_86,594,Public,Rural,Medium,6.411949356099418,Female,OBC,High,8,1,Health Issues
+School_87,726,Private,Rural,High,8.564877037684518,Female,ST,Medium,15,1,Family Issues
+School_88,148,Government-Aided,Town,Medium,5.4968936190056645,Female,ST,Low,17,7,Lack of Interest
+School_89,590,Private,City,High,1.84803495234669,Male,OBC,Medium,17,9,Family Issues
+School_90,494,Public,City,High,3.1961708570597462,Male,General,Medium,17,12,Lack of Interest
+School_91,874,Public,Town,Low,9.45432593434525,Female,ST,Low,17,2,Family Issues
+School_92,885,Private,City,High,5.553765480465549,Male,OBC,Low,6,1,Lack of Interest
+School_93,750,Government-Aided,City,Medium,7.364009178686367,Other,SC,Low,12,10,Health Issues
+School_94,142,Government-Aided,City,Medium,0.5804611426962432,Male,SC,Medium,16,2,Financial Problems
+School_95,710,Government-Aided,Rural,Low,3.622324912617867,Male,OBC,Low,8,8,Family Issues
+School_96,247,Public,Rural,High,8.77517977821744,Female,OBC,Medium,16,6,Financial Problems
+School_97,292,Public,City,High,9.010523990268574,Male,OBC,Low,5,9,Health Issues
+School_98,796,Private,Town,Medium,2.21238986426502,Male,SC,Low,16,4,Lack of Interest
+School_99,589,Private,Town,Medium,3.222077330771525,Male,General,Low,14,2,Other
+School_100,180,Public,Rural,Low,1.810758091268477,Female,SC,Medium,16,5,Health Issues
+School_101,909,Public,Town,Medium,9.593314988456347,Other,General,Low,9,3,Health Issues
+School_102,135,Private,Urban,Low,3.3849593800552116,Other,ST,Low,18,1,Family Issues
+School_103,115,Private,Town,Medium,7.970041985308859,Female,SC,Low,12,9,Lack of Interest
+School_104,498,Government-Aided,Rural,Medium,1.9604156419936767,Female,General,High,10,8,Health Issues
+School_105,878,Government-Aided,City,Medium,9.766200872179473,Other,ST,Medium,8,5,Financial Problems
+School_106,264,Public,City,Medium,6.167077108186974,Other,SC,Low,6,2,Family Issues
+School_107,886,Government-Aided,Rural,Medium,7.07440683743456,Female,ST,High,15,12,Lack of Interest
+School_108,732,Government-Aided,City,Low,5.141903075888878,Other,General,Low,14,4,Other
+School_109,769,Public,Urban,Low,9.635408444908304,Female,OBC,High,17,9,Other
+School_110,287,Private,Urban,Low,1.0775187917663673,Female,General,Low,15,1,Family Issues
+School_111,381,Private,Town,Medium,0.9592364769602566,Female,OBC,High,12,2,Lack of Interest
+School_112,835,Private,Urban,High,9.172767116943,Other,SC,Medium,7,5,Other
+School_113,385,Government-Aided,Town,High,7.120882215077364,Female,ST,Low,15,2,Lack of Interest
+School_114,402,Private,City,Low,8.954005979838145,Male,General,Low,13,9,Financial Problems
+School_115,963,Private,Urban,Medium,5.7012775614642965,Female,SC,High,16,4,Family Issues
+School_116,949,Public,City,High,2.512103456371257,Male,ST,Low,8,8,Health Issues
+School_117,661,Private,City,High,6.120996344837668,Male,General,Low,5,10,Lack of Interest
+School_118,452,Private,City,Medium,0.5267815308100754,Other,ST,Medium,5,7,Other
+School_119,208,Government-Aided,City,Low,5.145715645376885,Other,ST,Low,6,11,Financial Problems
+School_120,235,Public,Urban,Medium,7.050044727767129,Female,SC,Medium,8,9,Financial Problems
+School_121,319,Private,Town,Medium,9.87258881309527,Other,OBC,High,6,7,Other
+School_122,768,Private,Town,High,3.967749410572034,Male,ST,High,17,3,Financial Problems
+School_123,511,Government-Aided,Urban,Medium,3.612413972747785,Other,SC,Low,16,6,Health Issues
+School_124,153,Government-Aided,Rural,Low,2.7808159240467463,Female,SC,High,6,4,Financial Problems
+School_125,647,Private,Rural,High,1.0337116992884223,Other,SC,Low,14,10,Financial Problems
+School_126,157,Private,Town,Medium,6.147789304013758,Other,General,High,13,3,Financial Problems
+School_127,275,Government-Aided,Rural,High,1.9731934468112706,Other,General,Medium,15,9,Lack of Interest
+School_128,985,Government-Aided,Town,High,2.1336336891887027,Female,General,High,9,9,Financial Problems
+School_129,927,Government-Aided,City,Medium,4.208078063810715,Other,OBC,Low,12,1,Financial Problems
+School_130,715,Public,Town,Low,1.044550862300606,Male,OBC,High,13,4,Lack of Interest
+School_131,597,Government-Aided,Urban,High,9.29710969959477,Male,ST,Low,8,9,Family Issues
+School_132,635,Private,Rural,Low,2.290619778533216,Other,SC,High,15,1,Lack of Interest
+School_133,889,Public,City,High,7.928955189635392,Female,ST,Medium,10,3,Health Issues
+School_134,767,Private,Rural,Medium,7.80154697413434,Female,OBC,Low,16,1,Other
+School_135,556,Private,Urban,Low,1.8713229933053963,Other,OBC,Medium,5,4,Financial Problems
+School_136,808,Public,Rural,High,2.6533352639605496,Female,OBC,High,12,10,Family Issues
+School_137,585,Government-Aided,Town,Low,1.1990164003067143,Female,General,High,14,3,Health Issues
+School_138,56,Government-Aided,City,Medium,1.915807627984533,Female,General,Low,14,5,Family Issues
+School_139,362,Government-Aided,Town,Low,2.9294377076034364,Male,ST,High,16,2,Financial Problems
+School_140,356,Government-Aided,Urban,Low,6.879722242599532,Male,General,High,16,12,Financial Problems
+School_141,283,Government-Aided,Rural,Medium,4.318497535827687,Other,SC,Medium,7,8,Family Issues
+School_142,417,Private,City,Low,0.9537110717505335,Male,OBC,High,8,5,Financial Problems
+School_143,272,Government-Aided,Rural,Medium,3.549332057279327,Female,General,High,15,3,Health Issues
+School_144,675,Government-Aided,Rural,High,6.122151276386126,Male,OBC,Low,9,5,Family Issues
+School_145,959,Government-Aided,Urban,Low,3.4243163945715764,Male,ST,Low,18,11,Family Issues
+School_146,963,Public,Rural,Medium,2.245523793408509,Other,ST,Low,13,6,Health Issues
+School_147,465,Government-Aided,Urban,Medium,5.673686634591405,Male,ST,Medium,18,7,Financial Problems
+School_148,592,Private,Town,High,2.9662696634459835,Other,OBC,Low,14,5,Other
+School_149,736,Government-Aided,Town,High,0.9630683654114183,Male,OBC,Low,13,8,Health Issues
+School_150,283,Private,Rural,Low,4.988811766435086,Male,General,High,5,2,Health Issues
+School_151,207,Private,City,High,2.7169771064538186,Male,OBC,Low,7,10,Family Issues
+School_152,291,Public,Town,High,3.7182853193549494,Female,OBC,Medium,17,7,Financial Problems
+School_153,965,Government-Aided,Rural,Low,1.8851471171723153,Female,OBC,Low,16,7,Other
+School_154,153,Public,Urban,High,9.242448470074944,Male,OBC,Low,10,3,Health Issues
+School_155,689,Government-Aided,Town,Low,9.874689380583192,Other,General,High,12,3,Health Issues
+School_156,993,Government-Aided,Town,Low,7.705553549664649,Female,OBC,Medium,15,9,Lack of Interest
+School_157,738,Government-Aided,Urban,Medium,8.344869413985256,Other,OBC,Medium,12,1,Family Issues
+School_158,359,Public,City,Low,9.49690537781155,Male,ST,High,10,2,Financial Problems
+School_159,697,Private,City,High,3.838108428469443,Female,ST,Medium,15,12,Other
+School_160,813,Government-Aided,City,Medium,1.8505915708534095,Male,ST,High,8,8,Lack of Interest
+School_161,839,Private,City,High,8.474346603671705,Female,ST,High,13,9,Health Issues
+School_162,233,Public,Rural,Medium,9.421192813133064,Other,General,Medium,6,9,Family Issues
+School_163,229,Public,City,High,7.139004674256425,Male,OBC,High,8,8,Family Issues
+School_164,850,Government-Aided,City,Medium,0.7093238808549327,Other,ST,Medium,13,10,Other
+School_165,584,Government-Aided,Town,High,9.95212470164449,Female,OBC,Medium,5,11,Other
+School_166,494,Public,Urban,Low,3.073763029620146,Female,OBC,Medium,9,3,Family Issues
+School_167,750,Government-Aided,Urban,Low,3.9676422944644685,Male,SC,Medium,7,11,Financial Problems
+School_168,487,Government-Aided,Rural,Medium,8.253737073531944,Female,OBC,Low,9,8,Other
+School_169,144,Public,Rural,Medium,5.0304075288777,Male,General,High,12,2,Other
+School_170,286,Government-Aided,City,High,6.217955954665121,Male,OBC,High,14,11,Health Issues
+School_171,853,Private,Rural,Medium,3.3517599551761146,Male,OBC,Low,18,5,Other
+School_172,652,Private,City,Low,1.3928014849758255,Female,SC,Medium,14,11,Health Issues
+School_173,540,Public,Urban,High,0.5374367478634685,Other,SC,Low,16,7,Other
+School_174,347,Private,Urban,Medium,2.3351223136450914,Other,SC,Low,13,10,Health Issues
+School_175,459,Government-Aided,Rural,High,2.8456589413747895,Other,OBC,Low,9,9,Lack of Interest
+School_176,96,Government-Aided,Town,High,5.864771089716444,Male,OBC,Medium,12,5,Health Issues
+School_177,950,Public,Urban,High,4.232961020847595,Male,ST,Medium,13,1,Other
+School_178,130,Public,Town,Low,5.7143395347300725,Female,General,High,7,1,Health Issues
+School_179,327,Private,City,Medium,2.4636653104942434,Female,OBC,High,8,5,Lack of Interest
+School_180,605,Public,Urban,Medium,8.237077189193716,Other,ST,Low,13,1,Other
+School_181,411,Private,Urban,Low,5.612066463062117,Male,OBC,Low,18,9,Family Issues
+School_182,121,Private,Urban,High,8.041420920430628,Female,OBC,Low,15,12,Lack of Interest
+School_183,101,Private,Rural,High,0.9741354913227322,Other,ST,Medium,18,8,Health Issues
+School_184,758,Private,Rural,Medium,3.905145809846346,Other,General,High,12,7,Family Issues
+School_185,809,Public,Town,High,5.047335992289212,Male,ST,High,11,12,Health Issues
+School_186,852,Public,Urban,High,2.3738490629555864,Male,OBC,High,12,7,Health Issues
+School_187,692,Public,Urban,Low,2.209664608448939,Other,SC,Low,7,10,Lack of Interest
+School_188,312,Government-Aided,Rural,Low,5.908869513763143,Other,ST,High,14,6,Family Issues
+School_189,140,Government-Aided,Urban,High,7.644190241313793,Other,SC,High,16,6,Family Issues
+School_190,693,Public,Rural,High,1.158397108557264,Male,ST,Medium,7,9,Health Issues
+School_191,470,Public,Urban,High,3.5018078278350853,Female,SC,Medium,6,11,Family Issues
+School_192,919,Government-Aided,City,Medium,5.327721174870607,Male,OBC,Medium,16,2,Financial Problems
+School_193,425,Private,Rural,Low,4.316383665101197,Female,OBC,High,12,4,Lack of Interest
+School_194,383,Private,City,High,3.624134970517732,Other,SC,Medium,10,7,Other
+School_195,655,Private,Town,Medium,3.529371634080041,Other,General,Medium,15,5,Other
+School_196,754,Government-Aided,Town,Low,9.589437783146455,Male,General,Low,13,8,Other
+School_197,71,Government-Aided,Urban,Medium,3.2590477417835495,Other,ST,High,10,12,Family Issues
+School_198,719,Private,Urban,Medium,5.117732499684664,Male,SC,Medium,9,12,Other
+School_199,61,Private,City,Low,8.295422135988744,Female,OBC,Low,10,7,Lack of Interest
+School_200,835,Public,City,High,0.5467032220033047,Male,ST,Low,6,1,Other
+School_201,242,Government-Aided,City,Low,2.0295508410435983,Female,OBC,Low,8,4,Financial Problems
+School_202,834,Private,Urban,Low,5.368363341584258,Other,General,Medium,11,4,Health Issues
+School_203,692,Government-Aided,Urban,High,1.9500603999821045,Female,General,Low,18,3,Family Issues
+School_204,483,Public,Rural,Medium,2.131607183033554,Other,SC,High,15,7,Other
+School_205,226,Government-Aided,City,High,1.7240421355751168,Male,OBC,Medium,15,11,Family Issues
+School_206,68,Private,Town,Low,3.677153644575629,Male,SC,Medium,10,6,Health Issues
+School_207,511,Public,City,Medium,0.9991137441748517,Other,General,High,15,4,Health Issues
+School_208,519,Private,Town,Low,7.209432719778126,Other,ST,High,16,4,Financial Problems
+School_209,276,Private,City,Low,9.643782959287348,Male,OBC,High,15,8,Health Issues
+School_210,237,Private,Town,Low,5.999829137817415,Other,ST,High,11,1,Other
+School_211,190,Private,City,High,9.359160661784305,Other,General,Low,13,5,Health Issues
+School_212,803,Public,Rural,Low,8.685585557080902,Male,ST,High,10,9,Other
+School_213,248,Government-Aided,Rural,Low,7.128702366930558,Male,ST,Low,10,2,Family Issues
+School_214,267,Government-Aided,Rural,Low,3.786068038730471,Other,General,High,5,6,Family Issues
+School_215,523,Government-Aided,Rural,Medium,1.9905599463769148,Female,General,High,10,2,Lack of Interest
+School_216,550,Public,Town,Medium,7.12118394238904,Male,SC,Medium,16,10,Family Issues
+School_217,916,Government-Aided,City,High,6.774495542796581,Other,OBC,Low,8,6,Health Issues
+School_218,784,Private,Urban,Low,1.1235652304817427,Female,ST,High,16,11,Family Issues
+School_219,949,Government-Aided,Town,Low,9.86788059886624,Female,ST,High,12,10,Other
+School_220,422,Government-Aided,Rural,High,6.233657995496892,Male,General,Low,16,1,Family Issues
+School_221,560,Public,Urban,Medium,3.409784585196344,Other,ST,Low,6,11,Other
+School_222,669,Public,Town,Medium,4.149212992318003,Female,General,Medium,13,8,Other
+School_223,677,Government-Aided,Rural,Low,6.546929738329102,Male,SC,High,11,9,Health Issues
+School_224,484,Private,Urban,Low,8.139604599364386,Other,ST,High,16,4,Family Issues
+School_225,921,Private,City,Low,3.0114766735462877,Female,OBC,Medium,10,12,Other
+School_226,504,Government-Aided,Town,Low,3.586844295777322,Male,ST,High,16,10,Financial Problems
+School_227,340,Public,Rural,High,7.035927011907193,Other,ST,Medium,7,2,Health Issues
+School_228,919,Private,Rural,Low,2.3444533042101385,Female,OBC,Medium,13,1,Lack of Interest
+School_229,988,Private,Urban,Low,8.771144730246528,Female,General,Low,13,6,Other
+School_230,721,Government-Aided,Town,Medium,3.7777676066021266,Male,ST,Low,6,3,Lack of Interest
+School_231,889,Private,Town,Medium,4.225565728754349,Male,General,High,6,11,Lack of Interest
+School_232,406,Government-Aided,Urban,Low,1.4214539671691033,Female,ST,Low,6,11,Financial Problems
+School_233,893,Public,Town,Medium,1.3603848548004516,Male,SC,Medium,17,3,Financial Problems
+School_234,412,Private,Urban,High,6.450175791069946,Other,General,High,7,9,Other
+School_235,118,Public,Rural,Low,7.4697119561070515,Male,SC,High,14,11,Family Issues
+School_236,965,Private,Urban,Low,1.3279051828148674,Female,OBC,Low,18,5,Financial Problems
+School_237,402,Private,Rural,Medium,2.9516823182451266,Male,General,High,8,5,Lack of Interest
+School_238,272,Public,City,Medium,9.106505091022838,Other,OBC,Medium,13,2,Health Issues
+School_239,940,Private,Town,Low,0.9498454420280578,Female,OBC,Low,5,3,Other
+School_240,575,Private,City,High,5.747871827905651,Male,ST,Low,10,1,Lack of Interest
+School_241,887,Government-Aided,Town,Medium,2.860668038533819,Female,SC,Low,14,4,Family Issues
+School_242,251,Public,City,High,9.056733497072079,Female,SC,High,10,5,Family Issues
+School_243,303,Private,Town,Medium,3.326699006018208,Other,SC,Low,6,10,Health Issues
+School_244,872,Government-Aided,Rural,Medium,0.6869054374096799,Female,OBC,Low,18,7,Other
+School_245,132,Private,Town,Low,3.938792009477725,Other,ST,Medium,13,11,Financial Problems
+School_246,290,Public,Town,High,9.452298168564772,Female,OBC,Medium,15,4,Lack of Interest
+School_247,541,Public,Rural,High,3.7472180836648947,Other,ST,Low,9,1,Lack of Interest
+School_248,293,Private,City,High,7.020305515400489,Male,ST,Low,12,8,Lack of Interest
+School_249,354,Private,City,High,1.008050184776721,Female,General,Low,17,2,Lack of Interest
+School_250,715,Public,Town,Medium,3.615035127680083,Other,ST,Medium,9,7,Financial Problems
+School_251,213,Government-Aided,City,High,7.180298846022534,Female,General,Low,7,10,Family Issues
+School_252,416,Private,Urban,Low,9.560370227285814,Female,OBC,High,10,5,Financial Problems
+School_253,257,Public,Rural,Medium,3.0910097155918024,Other,SC,Medium,7,2,Other
+School_254,210,Government-Aided,Rural,High,8.880854031019014,Other,SC,High,16,3,Financial Problems
+School_255,876,Government-Aided,City,High,2.174053911273513,Male,General,Low,7,6,Family Issues
+School_256,945,Public,Urban,High,0.6340762653382621,Other,ST,High,17,12,Health Issues
+School_257,943,Government-Aided,City,Low,2.6235563924287435,Male,SC,High,12,7,Health Issues
+School_258,244,Government-Aided,Rural,Low,7.433175073488013,Other,ST,Low,10,1,Other
+School_259,737,Private,Town,High,8.067611836807984,Other,OBC,High,14,2,Lack of Interest
+School_260,55,Government-Aided,Rural,High,4.913575600011111,Female,OBC,High,6,9,Financial Problems
+School_261,492,Public,City,High,0.5406099746267264,Male,ST,High,11,10,Health Issues
+School_262,308,Government-Aided,Urban,Medium,6.344651977332874,Female,ST,Low,11,5,Lack of Interest
+School_263,628,Private,Rural,Medium,3.727316045410592,Male,OBC,Low,6,6,Lack of Interest
+School_264,930,Government-Aided,Town,Low,3.18151582928786,Female,General,Medium,11,2,Health Issues
+School_265,253,Public,Rural,High,5.93605813056024,Male,General,Medium,12,1,Financial Problems
+School_266,698,Government-Aided,City,Medium,9.623848488544937,Female,SC,High,8,5,Other
+School_267,749,Private,Urban,High,0.8407489853207639,Other,OBC,Low,14,1,Financial Problems
+School_268,883,Government-Aided,Town,High,5.401232362076232,Male,OBC,Low,9,2,Financial Problems
+School_269,867,Public,Rural,Low,4.959437116484398,Female,OBC,High,14,3,Lack of Interest
+School_270,502,Private,Urban,Medium,3.150485739601096,Male,ST,Low,14,9,Health Issues
+School_271,230,Private,City,Low,1.9674226247392292,Other,SC,Medium,17,8,Health Issues
+School_272,648,Public,City,Medium,2.5381278219695393,Female,SC,Medium,12,12,Health Issues
+School_273,177,Government-Aided,Rural,High,8.401941551564104,Male,OBC,Medium,13,5,Health Issues
+School_274,151,Government-Aided,City,High,2.970520275556691,Male,OBC,High,10,11,Health Issues
+School_275,651,Public,City,Medium,4.725515509734256,Female,SC,Medium,18,2,Financial Problems
+School_276,548,Government-Aided,Rural,Low,0.6192447408744917,Male,OBC,Medium,14,2,Other
+School_277,445,Public,Town,Medium,8.582966822843336,Male,OBC,Medium,8,3,Health Issues
+School_278,310,Government-Aided,Rural,Low,1.4796712473375138,Other,SC,High,15,7,Lack of Interest
+School_279,135,Public,City,Low,2.7950315911398227,Male,SC,High,18,12,Lack of Interest
+School_280,325,Private,Town,Low,7.969852575620817,Other,OBC,Medium,15,3,Family Issues
+School_281,281,Public,City,Medium,5.423480029296466,Male,ST,Medium,16,8,Health Issues
+School_282,93,Government-Aided,Town,Medium,7.189481954717197,Female,ST,High,7,4,Other
+School_283,406,Public,Urban,Low,9.182349053646945,Female,ST,High,5,5,Other
+School_284,337,Government-Aided,Town,High,0.7051763757478611,Other,ST,High,18,4,Financial Problems
+School_285,639,Private,Rural,High,7.5800922110423565,Male,ST,High,14,7,Financial Problems
+School_286,447,Private,Rural,Medium,1.2656722729464036,Female,SC,Low,5,8,Health Issues
+School_287,686,Private,Rural,Low,7.478984914875833,Other,OBC,Low,15,3,Health Issues
+School_288,331,Public,City,Low,6.68475756581614,Male,ST,Medium,7,2,Financial Problems
+School_289,731,Public,Town,High,4.790346538666759,Other,General,Low,14,1,Family Issues
+School_290,713,Government-Aided,City,High,3.2784059685421574,Other,OBC,High,11,12,Lack of Interest
+School_291,459,Public,Urban,Low,6.167248349603946,Other,OBC,High,12,12,Family Issues
+School_292,327,Private,Urban,Low,1.832368728655161,Other,General,High,17,9,Other
+School_293,623,Public,Town,High,8.842578377805777,Female,General,Low,17,4,Health Issues
+School_294,61,Government-Aided,Town,High,0.9139793175490091,Other,ST,High,12,3,Lack of Interest
+School_295,949,Public,Rural,Low,7.325652000492896,Female,ST,Medium,9,6,Financial Problems
+School_296,74,Public,City,Low,8.60082022995485,Female,SC,Low,9,3,Lack of Interest
+School_297,111,Public,Urban,Medium,5.7846482783710265,Female,OBC,Medium,7,2,Financial Problems
+School_298,819,Public,Rural,Low,9.685207618322382,Male,SC,Low,5,8,Health Issues
+School_299,481,Public,Urban,High,0.7195369598638071,Other,OBC,High,12,11,Health Issues
+School_300,184,Government-Aided,Rural,High,3.3054665288367717,Other,OBC,Medium,6,4,Lack of Interest
+School_301,313,Private,Urban,Medium,7.111562031287938,Female,SC,Low,10,11,Health Issues
+School_302,827,Government-Aided,Urban,Medium,2.9932841842047164,Other,OBC,High,13,12,Other
+School_303,858,Government-Aided,City,Medium,4.486683517489622,Male,ST,Medium,12,11,Lack of Interest
+School_304,413,Private,City,Medium,1.4339074437271246,Female,ST,High,9,10,Family Issues
+School_305,324,Public,Urban,High,7.983055878720951,Male,SC,High,18,9,Health Issues
+School_306,353,Private,City,High,1.6572912985891592,Other,General,High,14,11,Health Issues
+School_307,593,Public,Urban,Low,9.652313378333801,Male,General,High,18,12,Family Issues
+School_308,614,Government-Aided,Urban,Medium,4.578566484758628,Female,ST,Medium,15,3,Financial Problems
+School_309,453,Private,Town,High,4.922146579590916,Male,ST,High,5,2,Health Issues
+School_310,326,Public,City,High,4.005299152892514,Other,General,Medium,17,1,Lack of Interest
+School_311,892,Government-Aided,Rural,Low,3.8164627339549613,Other,SC,Low,14,4,Financial Problems
+School_312,663,Private,City,Medium,5.2136596090055205,Female,OBC,Low,17,4,Other
+School_313,103,Public,City,High,7.732022912291928,Female,General,High,5,10,Other
+School_314,569,Public,City,Low,0.961855165585888,Female,SC,Low,12,9,Health Issues
+School_315,895,Public,City,Low,4.231654758193314,Female,General,High,12,5,Health Issues
+School_316,906,Government-Aided,City,High,6.888824982985553,Male,OBC,Medium,7,10,Other
+School_317,404,Private,Rural,Low,3.4463927005219466,Female,OBC,Low,6,10,Financial Problems
+School_318,473,Government-Aided,Town,Medium,4.366560799370662,Male,SC,High,16,1,Lack of Interest
+School_319,781,Government-Aided,Town,Low,8.777992740395042,Female,OBC,Low,8,11,Lack of Interest
+School_320,67,Government-Aided,Town,Medium,1.6613801403230455,Male,SC,Medium,12,11,Other
+School_321,830,Government-Aided,Town,Medium,4.924230880178159,Female,General,Medium,7,5,Health Issues
+School_322,846,Private,Urban,Low,1.7745346680729062,Female,General,Low,8,2,Health Issues
+School_323,817,Private,Urban,Medium,2.890587452499304,Male,ST,Low,15,10,Financial Problems
+School_324,486,Public,City,Low,8.663050159946671,Female,SC,High,16,7,Family Issues
+School_325,864,Private,City,High,7.840163711344949,Other,SC,Medium,9,10,Other
+School_326,674,Government-Aided,Town,High,7.651355066659258,Other,OBC,High,5,12,Lack of Interest
+School_327,786,Government-Aided,Urban,Low,2.549996959967715,Female,ST,Medium,7,10,Lack of Interest
+School_328,925,Government-Aided,Urban,Medium,6.39212347953131,Female,SC,Low,18,5,Financial Problems
+School_329,405,Government-Aided,Urban,High,5.203240723426677,Other,ST,Medium,7,10,Other
+School_330,340,Private,Urban,Low,6.063003560101563,Female,ST,High,9,8,Financial Problems
+School_331,155,Government-Aided,Urban,Low,9.500550939699703,Other,OBC,Low,11,10,Health Issues
+School_332,153,Public,City,High,4.209434846110806,Female,OBC,Medium,15,1,Family Issues
+School_333,785,Government-Aided,Rural,High,4.025619073890067,Male,General,Low,15,2,Health Issues
+School_334,951,Private,Town,Low,7.132776100570475,Female,General,High,18,9,Financial Problems
+School_335,124,Private,Urban,Low,8.791625694940917,Other,ST,Low,12,1,Financial Problems
+School_336,735,Private,Rural,Medium,3.9588389210917487,Female,General,High,18,12,Family Issues
+School_337,249,Private,Urban,Low,0.5625032158725016,Other,ST,Low,13,8,Lack of Interest
+School_338,221,Public,Rural,Medium,8.189171690409193,Female,OBC,High,16,8,Other
+School_339,443,Public,City,High,9.303217902304683,Male,SC,High,18,2,Family Issues
+School_340,750,Government-Aided,Town,Low,8.569388507356507,Male,ST,High,18,5,Health Issues
+School_341,333,Government-Aided,City,Medium,9.88277771794924,Female,General,Medium,17,7,Health Issues
+School_342,450,Private,Rural,High,7.777835657805011,Male,ST,High,18,11,Lack of Interest
+School_343,553,Private,Urban,High,4.137305281883304,Other,General,High,5,7,Financial Problems
+School_344,100,Private,Town,Low,7.091009485273005,Other,General,Medium,7,12,Financial Problems
+School_345,808,Government-Aided,Rural,Medium,0.5003704695510738,Other,SC,Low,14,2,Health Issues
+School_346,939,Private,Rural,Medium,9.095147960656062,Other,ST,Medium,10,5,Other
+School_347,85,Public,Urban,Low,2.8245479103011597,Other,ST,High,13,6,Family Issues
+School_348,553,Private,City,High,4.9096831768475875,Female,OBC,High,11,8,Health Issues
+School_349,597,Government-Aided,Rural,High,2.4600477211149014,Male,OBC,Low,18,11,Health Issues
+School_350,348,Government-Aided,Town,High,8.020644998325473,Other,OBC,Low,12,6,Family Issues
+School_351,309,Private,Town,Low,5.059337237988266,Female,SC,Medium,17,9,Financial Problems
+School_352,933,Private,Town,High,6.667393438939184,Other,OBC,Low,10,11,Family Issues
+School_353,264,Government-Aided,Town,High,1.9423745508297612,Female,ST,Low,7,11,Health Issues
+School_354,706,Government-Aided,Urban,High,8.28345318355516,Other,SC,Low,17,7,Lack of Interest
+School_355,370,Private,City,High,2.9109808160955604,Male,ST,Medium,7,11,Health Issues
+School_356,404,Private,Town,Low,6.168978375679682,Male,ST,High,11,12,Other
+School_357,690,Private,Rural,Medium,7.4574101317757355,Other,OBC,Low,9,7,Family Issues
+School_358,124,Public,Town,High,6.049801001530935,Female,General,Low,5,9,Family Issues
+School_359,818,Government-Aided,Town,High,7.838939887904159,Other,ST,High,10,10,Other
+School_360,374,Government-Aided,City,Low,4.65613870110487,Female,SC,High,16,4,Family Issues
+School_361,446,Private,Urban,Low,5.953801407874877,Female,ST,Low,15,3,Other
+School_362,727,Government-Aided,Rural,Low,9.534321877030566,Female,OBC,Low,10,11,Health Issues
+School_363,919,Public,Urban,Medium,6.624250512685625,Male,SC,Low,12,3,Health Issues
+School_364,325,Government-Aided,City,High,0.9280225907020703,Male,ST,Medium,5,3,Financial Problems
+School_365,51,Private,Town,Medium,9.33164406974466,Other,ST,Low,11,4,Other
+School_366,902,Private,Rural,Low,6.016800759836923,Female,OBC,Medium,10,3,Family Issues
+School_367,985,Private,Rural,Medium,7.821900822720705,Female,OBC,Medium,15,9,Health Issues
+School_368,300,Private,Town,High,2.589735938942336,Other,OBC,Low,16,4,Lack of Interest
+School_369,220,Public,Urban,Low,4.837597610975314,Male,ST,Low,16,1,Family Issues
+School_370,861,Government-Aided,City,Medium,8.132131486221294,Other,ST,Medium,6,7,Other
+School_371,91,Government-Aided,Town,High,2.145523962138004,Male,General,Low,7,4,Financial Problems
+School_372,605,Public,Rural,High,5.060290569956443,Male,ST,High,14,7,Family Issues
+School_373,241,Government-Aided,City,Low,4.706807942902525,Male,General,Medium,8,9,Lack of Interest
+School_374,237,Public,City,Low,9.755900868827458,Female,OBC,Medium,6,3,Health Issues
+School_375,293,Private,Urban,Medium,2.91200144131992,Male,General,Medium,10,2,Lack of Interest
+School_376,815,Government-Aided,Town,High,5.734749144350271,Other,SC,Low,10,11,Health Issues
+School_377,112,Public,Town,Medium,3.2276997711047724,Other,General,Medium,5,12,Financial Problems
+School_378,199,Private,City,High,8.050005570184485,Female,General,Medium,7,1,Health Issues
+School_379,481,Private,Urban,High,6.537962762828573,Female,ST,Medium,11,5,Lack of Interest
+School_380,375,Public,City,High,7.417554279463456,Male,General,High,18,5,Lack of Interest
+School_381,127,Public,Rural,Low,9.130399705659993,Male,SC,Medium,13,1,Other
+School_382,164,Government-Aided,City,Medium,4.456677726635518,Female,General,Low,6,1,Financial Problems
+School_383,506,Government-Aided,Urban,Medium,4.322642524009764,Male,ST,Low,18,8,Financial Problems
+School_384,992,Government-Aided,Rural,Medium,7.126921830840155,Female,ST,High,12,6,Financial Problems
+School_385,326,Private,Urban,Medium,2.615607601818002,Female,ST,Medium,14,7,Financial Problems
+School_386,107,Government-Aided,Town,Medium,1.026416704567871,Other,ST,High,8,3,Family Issues
+School_387,290,Private,Urban,Low,2.447469030663134,Male,ST,Low,17,5,Health Issues
+School_388,290,Public,City,High,4.7255903486749204,Female,ST,Low,14,7,Health Issues
+School_389,372,Public,Town,Low,8.620553996990878,Other,OBC,Medium,9,12,Financial Problems
+School_390,562,Private,Urban,High,1.735547512073987,Male,OBC,High,11,1,Family Issues
+School_391,828,Public,City,High,7.8090470148659445,Male,ST,Low,18,2,Health Issues
+School_392,463,Public,Town,High,5.014930061641561,Other,OBC,Medium,13,5,Lack of Interest
+School_393,991,Public,City,High,3.2071787710960846,Female,OBC,High,7,10,Health Issues
+School_394,756,Private,City,Low,3.7598038084632868,Male,ST,High,6,8,Family Issues
+School_395,457,Private,Town,High,7.3596795472724486,Other,ST,Medium,17,9,Other
+School_396,250,Government-Aided,Urban,Medium,6.960063629694189,Male,ST,Low,13,3,Other
+School_397,997,Public,Town,High,6.229312349737369,Male,OBC,Low,7,9,Lack of Interest
+School_398,429,Private,Urban,Medium,9.852781150952518,Other,General,Medium,17,3,Financial Problems
+School_399,637,Private,Urban,High,8.955202433235101,Other,General,High,15,4,Financial Problems
+School_400,921,Government-Aided,Urban,Low,1.2084189801020124,Other,SC,Low,17,7,Financial Problems
+School_401,546,Private,Rural,Low,1.8433839215853944,Male,OBC,Low,18,1,Lack of Interest
+School_402,833,Private,Rural,Low,6.262120165277964,Female,General,Low,14,10,Financial Problems
+School_403,325,Government-Aided,Urban,High,3.9516328569846295,Female,OBC,High,5,3,Lack of Interest
+School_404,272,Private,Rural,Medium,7.4059250435696855,Female,OBC,Medium,14,8,Financial Problems
+School_405,914,Government-Aided,Rural,High,2.395988485663721,Other,SC,Low,14,9,Financial Problems
+School_406,685,Private,Rural,Medium,7.202756705424108,Other,OBC,Medium,8,11,Financial Problems
+School_407,888,Government-Aided,Town,Medium,5.027026283204415,Other,OBC,Medium,10,7,Family Issues
+School_408,746,Government-Aided,City,Medium,8.993384982051294,Other,OBC,High,18,9,Lack of Interest
+School_409,315,Public,Rural,Medium,8.932009063377086,Male,SC,High,18,4,Other
+School_410,832,Government-Aided,Rural,Medium,2.499797588095142,Male,SC,Low,14,1,Family Issues
+School_411,387,Public,City,Medium,9.641037824170052,Other,General,Low,13,2,Family Issues
+School_412,703,Private,Urban,Medium,7.583758483169047,Female,ST,Low,5,7,Financial Problems
+School_413,655,Government-Aided,Urban,Low,6.589987200381858,Female,OBC,Medium,14,2,Financial Problems
+School_414,350,Private,Rural,High,3.857759833544241,Female,General,High,18,3,Health Issues
+School_415,627,Government-Aided,Rural,Low,9.351178595963518,Other,SC,High,16,5,Family Issues
+School_416,125,Private,Urban,Low,3.9666106582639156,Other,General,High,15,9,Family Issues
+School_417,165,Public,Rural,High,2.3635108945931935,Male,ST,Low,7,6,Other
+School_418,628,Government-Aided,Urban,High,1.3515606956714583,Male,General,High,10,2,Financial Problems
+School_419,163,Private,Rural,High,1.192204824148801,Male,OBC,High,16,1,Family Issues
+School_420,330,Government-Aided,Town,Low,9.83483860311118,Male,General,Medium,5,9,Financial Problems
+School_421,340,Public,Town,Low,5.307629567126721,Other,OBC,High,8,1,Lack of Interest
+School_422,647,Government-Aided,Town,High,7.678475387978812,Other,General,High,7,6,Health Issues
+School_423,221,Government-Aided,City,High,2.2982758619161516,Other,OBC,Low,7,1,Lack of Interest
+School_424,395,Public,Urban,Low,4.844023526531489,Other,General,Medium,16,6,Health Issues
+School_425,708,Private,Rural,Low,7.0792386685761075,Female,ST,Low,15,3,Lack of Interest
+School_426,899,Private,City,High,1.239788700345185,Other,OBC,Low,7,6,Other
+School_427,65,Government-Aided,Rural,Low,8.680574079070736,Female,General,High,18,3,Lack of Interest
+School_428,346,Private,Town,High,5.566714716300129,Other,SC,High,11,1,Health Issues
+School_429,637,Public,Urban,Medium,8.536804098009881,Female,ST,Low,13,9,Lack of Interest
+School_430,471,Government-Aided,Town,Medium,9.63399124245536,Male,SC,Low,16,11,Family Issues
+School_431,274,Government-Aided,City,High,1.4189942882375552,Female,SC,Low,6,9,Family Issues
+School_432,519,Government-Aided,Urban,Medium,7.838101547194986,Male,OBC,Low,15,1,Other
+School_433,416,Government-Aided,Rural,Low,4.808751137798675,Male,General,Low,13,1,Family Issues
+School_434,555,Government-Aided,City,Medium,4.580987136421849,Female,OBC,High,5,9,Other
+School_435,894,Public,Urban,Low,9.09708705778561,Male,OBC,Low,7,4,Other
+School_436,215,Public,Rural,Medium,6.784765813080563,Male,SC,Medium,18,8,Lack of Interest
+School_437,674,Government-Aided,City,Low,4.884179455278155,Male,SC,Medium,11,4,Lack of Interest
+School_438,55,Public,Rural,Medium,3.1442932388469256,Other,SC,High,10,11,Other
+School_439,772,Government-Aided,Rural,Medium,5.721522897190519,Other,SC,High,5,12,Family Issues
+School_440,967,Government-Aided,Rural,High,8.855083657089855,Female,ST,High,11,2,Lack of Interest
+School_441,161,Private,Town,High,5.803769073593315,Male,ST,Medium,14,10,Lack of Interest
+School_442,994,Public,City,Medium,9.823417876567962,Male,ST,Medium,6,1,Other
+School_443,406,Government-Aided,City,Low,7.980004387227109,Male,General,Medium,6,12,Lack of Interest
+School_444,795,Public,City,High,5.7309448055031655,Male,General,Low,13,3,Health Issues
+School_445,241,Private,City,Low,6.648267731885107,Other,General,Medium,14,6,Other
+School_446,339,Public,City,Low,1.89887398042135,Female,ST,Low,12,11,Lack of Interest
+School_447,701,Government-Aided,Rural,High,1.6140708566872841,Other,OBC,Medium,5,2,Family Issues
+School_448,983,Public,City,High,2.2020851416431477,Female,ST,Medium,8,3,Health Issues
+School_449,802,Private,City,Low,2.199264923920418,Male,General,Low,8,1,Financial Problems
+School_450,887,Public,Town,Low,8.026886351541062,Female,OBC,Medium,11,3,Lack of Interest
+School_451,244,Private,Town,High,6.256706213919432,Male,General,Low,9,7,Other
+School_452,206,Government-Aided,Urban,High,1.8514899195144672,Other,SC,High,15,7,Family Issues
+School_453,254,Public,Town,High,2.563247048914383,Other,SC,Low,18,8,Lack of Interest
+School_454,352,Private,Rural,High,4.989506209309157,Male,SC,Medium,18,11,Financial Problems
+School_455,987,Private,Rural,Low,5.73486841047372,Male,SC,Medium,17,7,Health Issues
+School_456,393,Private,Town,High,1.1709730357158188,Male,ST,Low,5,6,Financial Problems
+School_457,890,Private,Rural,High,8.131180661960565,Other,SC,Medium,7,2,Family Issues
+School_458,481,Public,Urban,Low,8.627035925341312,Other,OBC,Low,8,3,Lack of Interest
+School_459,804,Public,Urban,High,4.160347584352621,Female,General,High,13,11,Family Issues
+School_460,650,Private,City,Low,2.7824635705823892,Male,ST,Medium,11,11,Family Issues
+School_461,62,Public,Urban,High,7.664192825352741,Male,General,High,14,7,Lack of Interest
+School_462,957,Government-Aided,Town,High,0.6086766941351662,Male,OBC,High,16,4,Other
+School_463,898,Government-Aided,City,Medium,8.286921322276637,Male,SC,Medium,8,3,Health Issues
+School_464,597,Private,Urban,Medium,6.071215723690821,Male,OBC,High,13,4,Health Issues
+School_465,988,Government-Aided,Rural,Low,6.622303476889652,Male,General,Medium,6,10,Financial Problems
+School_466,278,Government-Aided,City,Medium,8.666966314774479,Female,ST,High,11,8,Lack of Interest
+School_467,915,Government-Aided,Rural,Medium,7.4738177580643175,Male,ST,Low,18,3,Family Issues
+School_468,206,Government-Aided,City,Low,9.657614479760081,Other,General,Medium,11,11,Health Issues
+School_469,172,Public,Rural,High,2.729291911302361,Other,OBC,Medium,5,10,Financial Problems
+School_470,878,Public,Town,Medium,7.594788126484254,Other,OBC,High,7,3,Family Issues
+School_471,760,Private,Town,High,5.108948314428603,Female,SC,Low,17,5,Financial Problems
+School_472,452,Private,Town,Low,7.985412411086093,Female,ST,Medium,12,9,Health Issues
+School_473,138,Private,Urban,Low,6.218401805724089,Female,SC,Medium,8,3,Family Issues
+School_474,713,Public,Town,Low,3.7243624230423906,Other,SC,Medium,10,3,Lack of Interest
+School_475,719,Government-Aided,Urban,Medium,7.2058011542427085,Female,ST,Medium,10,8,Health Issues
+School_476,955,Private,Rural,Medium,3.422711500262329,Other,SC,Medium,12,8,Family Issues
+School_477,99,Government-Aided,Town,High,4.073892663666612,Male,SC,Medium,12,5,Health Issues
+School_478,284,Public,City,High,5.419630645725403,Male,ST,High,13,6,Family Issues
+School_479,954,Private,Town,High,8.208819267462012,Other,OBC,High,18,7,Lack of Interest
+School_480,352,Public,Rural,Low,8.204133756009334,Female,OBC,Medium,17,9,Financial Problems
+School_481,990,Public,Urban,Low,4.940484339831216,Female,OBC,Medium,9,6,Family Issues
+School_482,562,Government-Aided,City,Low,7.192533005822868,Male,ST,Low,13,4,Other
+School_483,999,Public,Town,Medium,2.377448893190549,Female,General,High,6,11,Financial Problems
+School_484,140,Public,Rural,Low,7.929266676237608,Female,SC,High,18,6,Family Issues
+School_485,497,Private,Rural,Low,7.832662868059988,Other,General,High,11,3,Other
+School_486,259,Government-Aided,Urban,Low,2.362644941265225,Other,SC,High,17,5,Family Issues
+School_487,196,Government-Aided,City,Medium,5.465245297634501,Female,General,High,6,9,Lack of Interest
+School_488,650,Private,Rural,Medium,1.7475472905405596,Female,General,Medium,14,7,Other
+School_489,889,Public,City,Low,5.27775480626091,Other,OBC,High,14,1,Lack of Interest
+School_490,589,Government-Aided,City,Low,2.1204787616655576,Male,SC,High,11,3,Other
+School_491,840,Government-Aided,City,High,9.287835304217461,Other,OBC,High,7,3,Lack of Interest
+School_492,162,Public,Town,Medium,0.7733913916748743,Male,ST,Medium,14,4,Family Issues
+School_493,400,Private,Rural,Medium,2.9416003491562916,Other,OBC,Medium,18,10,Lack of Interest
+School_494,469,Government-Aided,Town,Medium,4.026246624598669,Male,ST,Medium,10,4,Financial Problems
+School_495,733,Private,Rural,High,9.093609786488946,Other,OBC,Low,14,6,Lack of Interest
+School_496,909,Public,Rural,Low,9.332133843031572,Male,ST,High,6,12,Family Issues
+School_497,386,Private,Urban,Medium,3.417419527139702,Other,General,Low,10,9,Other
+School_498,50,Public,Urban,Medium,3.651895806583812,Other,General,Low,13,3,Financial Problems
+School_499,945,Private,City,Low,0.9291723264266706,Male,ST,High,10,8,Family Issues
+School_500,76,Public,Urban,Low,4.046078032469886,Female,General,Low,7,3,Family Issues
+School_501,499,Government-Aided,Rural,Medium,0.7705760829852661,Other,General,Medium,6,4,Family Issues
+School_502,230,Government-Aided,Rural,High,7.151082491196841,Other,OBC,Low,14,6,Other
+School_503,297,Government-Aided,Town,Medium,3.9821156733231766,Female,OBC,High,16,10,Family Issues
+School_504,799,Private,Town,Low,3.1445023685774824,Female,OBC,Low,17,6,Lack of Interest
+School_505,691,Public,Urban,High,3.4935267705453503,Female,SC,Medium,15,7,Family Issues
+School_506,342,Government-Aided,City,Low,7.129968524886941,Other,ST,Low,14,2,Financial Problems
+School_507,811,Private,Town,High,8.997663095709587,Female,General,Low,8,12,Other
+School_508,908,Government-Aided,City,High,2.1881246178722016,Other,ST,Medium,9,1,Family Issues
+School_509,83,Private,Rural,Low,0.8984682891053448,Male,OBC,Low,17,2,Lack of Interest
+School_510,974,Private,Rural,Medium,9.084166456727646,Female,SC,High,17,5,Financial Problems
+School_511,608,Government-Aided,Urban,Medium,7.49720776379251,Female,ST,High,8,7,Other
+School_512,162,Public,Urban,High,2.319647263149296,Other,OBC,Medium,9,8,Family Issues
+School_513,962,Government-Aided,Town,High,1.0515160835469732,Other,General,High,17,6,Family Issues
+School_514,542,Public,Town,Medium,1.8949097083189743,Male,OBC,High,5,4,Health Issues
+School_515,712,Government-Aided,Urban,High,1.4265666121800522,Male,General,High,11,1,Lack of Interest
+School_516,333,Public,Urban,Low,8.35128988609555,Male,General,High,16,4,Lack of Interest
+School_517,557,Public,City,High,6.588020076924316,Other,OBC,High,5,3,Financial Problems
+School_518,53,Government-Aided,Town,Medium,6.319130116474261,Female,General,Medium,18,12,Financial Problems
+School_519,786,Public,Urban,Low,3.373098647698088,Female,General,Medium,15,8,Other
+School_520,247,Government-Aided,Urban,High,5.144541175319698,Male,OBC,Medium,12,2,Health Issues
+School_521,925,Private,Urban,Medium,1.9507638551969402,Female,ST,Low,10,3,Family Issues
+School_522,210,Private,Town,High,7.675823666604602,Other,SC,Low,8,7,Financial Problems
+School_523,867,Government-Aided,Urban,High,9.917676221233032,Male,SC,Medium,14,7,Financial Problems
+School_524,380,Private,Urban,Low,1.598406194098625,Male,OBC,Medium,16,12,Health Issues
+School_525,584,Government-Aided,Urban,High,5.084108984383653,Other,General,High,13,7,Financial Problems
+School_526,914,Private,Urban,Low,8.807453784576218,Female,OBC,Medium,7,6,Other
+School_527,486,Government-Aided,Town,High,0.5422372305534369,Male,OBC,Low,12,4,Financial Problems
+School_528,738,Government-Aided,City,High,6.178495482654643,Male,ST,Low,7,4,Family Issues
+School_529,143,Public,Urban,High,7.740442261942224,Other,SC,High,8,1,Health Issues
+School_530,833,Government-Aided,Town,Medium,8.680838098615814,Male,ST,Low,5,9,Other
+School_531,135,Public,City,Low,0.6298103586804236,Male,ST,High,9,11,Family Issues
+School_532,868,Private,Town,High,9.769051418549314,Male,General,Low,10,6,Financial Problems
+School_533,149,Private,Rural,Low,4.202732313038507,Female,ST,Medium,16,7,Family Issues
+School_534,671,Government-Aided,Urban,Low,2.101670289414485,Male,ST,Low,7,12,Family Issues
+School_535,857,Government-Aided,City,Low,1.8236373859910626,Other,General,Medium,13,10,Health Issues
+School_536,649,Private,Town,Medium,8.396801959143957,Other,OBC,Medium,13,8,Family Issues
+School_537,911,Private,City,High,9.772943649527207,Female,ST,High,6,10,Lack of Interest
+School_538,884,Government-Aided,Urban,Low,2.3937322169894513,Female,ST,High,9,4,Lack of Interest
+School_539,716,Public,Rural,Medium,1.8536226162821947,Male,ST,Medium,11,2,Family Issues
+School_540,910,Private,Urban,Low,9.894684352711678,Male,General,Low,7,5,Financial Problems
+School_541,597,Private,Town,Medium,7.396667726563877,Male,ST,Low,14,4,Other
+School_542,700,Government-Aided,Rural,High,2.84689815513455,Other,ST,High,6,10,Health Issues
+School_543,125,Private,City,Low,1.6002835381017249,Other,ST,Medium,8,9,Other
+School_544,590,Public,Urban,High,8.33091657956216,Other,SC,Medium,16,12,Other
+School_545,903,Public,Urban,Medium,3.540634736820247,Female,SC,Medium,11,4,Lack of Interest
+School_546,269,Private,Urban,Low,8.380044840889479,Male,General,Medium,8,2,Health Issues
+School_547,430,Private,Rural,High,9.840166113335986,Other,General,High,9,11,Other
+School_548,71,Government-Aided,Urban,High,9.218261452001808,Male,General,Medium,8,8,Other
+School_549,874,Public,City,High,5.626509114907003,Male,ST,Low,17,7,Financial Problems
+School_550,607,Private,Rural,Low,6.1905114658977505,Other,OBC,Low,14,6,Lack of Interest
+School_551,463,Public,Rural,Medium,3.169822429853121,Other,ST,Medium,14,6,Financial Problems
+School_552,605,Private,Urban,Low,5.328638393781581,Male,ST,High,5,8,Lack of Interest
+School_553,871,Public,Town,High,2.133076704198899,Other,SC,High,18,7,Lack of Interest
+School_554,211,Public,City,Low,8.8342457472927,Other,ST,Medium,15,10,Family Issues
+School_555,290,Public,Town,Medium,8.030208643306988,Female,General,Low,9,8,Other
+School_556,467,Government-Aided,City,Medium,5.693676257438375,Other,ST,Medium,16,10,Financial Problems
+School_557,714,Private,Rural,Medium,4.716688404450132,Other,General,High,5,6,Financial Problems
+School_558,305,Public,Urban,Low,3.4529638329659487,Other,SC,High,16,8,Family Issues
+School_559,699,Public,Rural,Low,3.4842943316828623,Other,SC,High,13,9,Lack of Interest
+School_560,501,Public,Rural,Low,8.60044669854457,Female,ST,Low,10,3,Family Issues
+School_561,837,Government-Aided,Rural,Medium,4.281498393669741,Male,SC,Low,11,9,Family Issues
+School_562,415,Government-Aided,Rural,Low,5.393419790168447,Female,ST,Low,14,9,Family Issues
+School_563,638,Public,City,Low,1.2388287816194326,Other,ST,Medium,18,8,Lack of Interest
+School_564,369,Public,City,Medium,3.3431063238549132,Male,OBC,High,11,1,Lack of Interest
+School_565,968,Government-Aided,Urban,Low,2.4121073644958946,Female,OBC,Low,13,11,Family Issues
+School_566,339,Private,City,Low,6.392426376328892,Male,SC,High,8,6,Financial Problems
+School_567,518,Public,Rural,High,3.330535469189866,Male,SC,Low,6,7,Family Issues
+School_568,982,Government-Aided,City,Low,2.464113224408206,Female,ST,Medium,11,4,Other
+School_569,383,Public,Urban,Medium,9.583653812883254,Female,General,Low,6,11,Health Issues
+School_570,389,Public,Urban,High,1.9956341511219668,Female,ST,High,9,9,Financial Problems
+School_571,218,Private,Urban,Medium,5.142826148504774,Other,OBC,High,7,3,Other
+School_572,717,Public,Rural,Low,3.156866461453394,Male,ST,Medium,9,1,Health Issues
+School_573,127,Private,Town,Medium,0.5085638881529848,Other,General,Low,5,8,Family Issues
+School_574,490,Private,Town,Low,3.257594820585761,Male,SC,Low,6,3,Lack of Interest
+School_575,464,Private,Town,Low,8.995284361476761,Female,OBC,Low,13,3,Financial Problems
+School_576,245,Government-Aided,Town,Low,3.067188916154912,Male,ST,High,10,1,Financial Problems
+School_577,513,Public,Rural,Medium,2.222155852814142,Female,OBC,Medium,8,5,Financial Problems
+School_578,474,Public,City,Low,6.365387974146125,Female,OBC,Low,14,9,Lack of Interest
+School_579,418,Public,Town,High,1.5212640212105075,Female,ST,High,14,10,Health Issues
+School_580,78,Private,City,Low,4.407288317853462,Female,ST,High,17,6,Lack of Interest
+School_581,756,Government-Aided,Rural,Medium,6.856019639768031,Female,General,Low,17,1,Family Issues
+School_582,678,Government-Aided,Urban,High,6.930091539545474,Female,ST,Low,12,9,Financial Problems
+School_583,156,Public,City,High,2.4813262577716477,Female,General,Low,16,6,Financial Problems
+School_584,542,Private,Rural,Low,1.711435330966073,Male,OBC,Medium,17,6,Health Issues
+School_585,511,Private,Town,Medium,0.8897069890939868,Other,SC,Low,18,2,Health Issues
+School_586,202,Government-Aided,Town,High,8.628535219181867,Male,ST,High,17,12,Lack of Interest
+School_587,408,Private,Town,High,3.4792063930799615,Female,SC,Medium,7,2,Health Issues
+School_588,93,Government-Aided,Rural,High,4.1721571628367915,Female,ST,High,15,8,Financial Problems
+School_589,205,Private,Rural,Medium,2.012011579338262,Male,ST,Medium,5,11,Family Issues
+School_590,403,Private,Rural,Low,5.317645445795326,Male,OBC,Medium,6,4,Lack of Interest
+School_591,365,Government-Aided,Rural,Medium,7.543024626879037,Female,OBC,Low,9,5,Financial Problems
+School_592,703,Public,Town,Medium,3.2158518885999925,Other,OBC,High,8,12,Family Issues
+School_593,959,Private,Town,Low,6.19920859588431,Other,General,Low,12,8,Family Issues
+School_594,857,Government-Aided,City,High,4.233222298763463,Male,OBC,High,6,5,Health Issues
+School_595,542,Private,Urban,Low,3.289749897976204,Other,SC,Low,10,8,Other
+School_596,898,Public,Rural,High,1.4758683665588295,Male,ST,High,8,9,Lack of Interest
+School_597,886,Public,City,High,3.0972581946907445,Other,OBC,Low,17,2,Family Issues
+School_598,999,Public,Rural,High,1.4517893259300105,Other,ST,High,15,3,Other
+School_599,481,Government-Aided,Rural,High,3.9129593044994015,Other,OBC,High,18,9,Other
+School_600,987,Private,Rural,Low,7.510562783296528,Female,SC,Medium,6,7,Other
+School_601,236,Government-Aided,Urban,Low,1.087675131647797,Male,ST,Medium,10,4,Family Issues
+School_602,773,Government-Aided,Urban,High,9.486818142589707,Male,ST,Medium,11,6,Health Issues
+School_603,629,Private,Rural,High,9.93606532408359,Other,ST,Low,16,2,Financial Problems
+School_604,408,Public,Urban,High,5.701837686038225,Other,SC,Low,7,3,Family Issues
+School_605,391,Public,City,High,2.9954804464906557,Female,SC,Medium,5,4,Family Issues
+School_606,586,Private,Town,Medium,5.8223540263911495,Other,OBC,High,5,11,Financial Problems
+School_607,125,Public,City,Medium,8.428748207854953,Other,OBC,Medium,16,10,Family Issues
+School_608,863,Public,City,Medium,9.46338978221725,Female,SC,High,10,5,Health Issues
+School_609,687,Government-Aided,Urban,Medium,2.7816088318758907,Female,ST,Low,18,8,Financial Problems
+School_610,870,Government-Aided,Rural,High,7.176468507818207,Male,SC,High,5,6,Lack of Interest
+School_611,505,Public,City,Low,7.1668355560049894,Other,ST,Medium,12,6,Financial Problems
+School_612,403,Public,City,Medium,6.322759586513791,Male,ST,Medium,14,9,Health Issues
+School_613,305,Private,Urban,High,8.606934125482189,Male,OBC,High,5,7,Family Issues
+School_614,546,Private,Urban,High,2.1547055345262085,Other,General,Medium,9,1,Health Issues
+School_615,641,Public,Town,Medium,6.665896439966579,Female,OBC,High,9,2,Lack of Interest
+School_616,188,Private,Town,Low,4.507140466635377,Other,SC,High,9,12,Financial Problems
+School_617,286,Public,City,Low,4.118031852209706,Male,ST,High,7,5,Financial Problems
+School_618,456,Government-Aided,Urban,High,8.943431993030591,Male,ST,High,14,9,Financial Problems
+School_619,299,Public,City,Low,2.5183905170502445,Other,General,Medium,16,11,Other
+School_620,921,Government-Aided,Rural,High,7.3218327085300245,Other,ST,Medium,6,6,Lack of Interest
+School_621,597,Government-Aided,Town,Medium,1.302079299677183,Female,ST,Medium,8,8,Family Issues
+School_622,78,Government-Aided,Urban,Medium,8.772741958329313,Female,OBC,Medium,14,3,Health Issues
+School_623,650,Public,Urban,High,8.650474885419092,Male,General,Low,14,1,Family Issues
+School_624,628,Public,Rural,Low,3.67183779838343,Other,SC,High,12,11,Health Issues
+School_625,210,Public,Urban,Low,7.941770672772264,Male,OBC,Medium,12,10,Health Issues
+School_626,747,Private,Rural,Low,0.5835437569997322,Male,SC,Medium,13,4,Family Issues
+School_627,727,Government-Aided,Urban,Medium,4.205582704966876,Other,ST,Low,18,3,Financial Problems
+School_628,464,Government-Aided,Rural,Medium,3.4683373801923802,Other,General,Low,6,3,Family Issues
+School_629,928,Private,Urban,Medium,6.207529367128956,Male,OBC,Medium,17,11,Lack of Interest
+School_630,986,Private,Urban,High,4.537837785817214,Male,SC,High,15,10,Lack of Interest
+School_631,446,Private,City,Low,2.9639743384172026,Female,General,Medium,11,8,Health Issues
+School_632,698,Government-Aided,Urban,High,8.828050660110685,Other,ST,Low,5,5,Health Issues
+School_633,221,Government-Aided,Urban,Medium,9.36803964650308,Other,ST,Low,11,8,Family Issues
+School_634,806,Public,Rural,Medium,7.752252966997296,Female,ST,Low,6,6,Health Issues
+School_635,394,Public,Town,Medium,1.2054644323683017,Female,OBC,High,15,8,Financial Problems
+School_636,613,Private,Rural,Medium,1.7045901499977747,Male,OBC,High,7,11,Financial Problems
+School_637,452,Government-Aided,Urban,Low,8.57913467015091,Male,SC,High,8,6,Financial Problems
+School_638,543,Government-Aided,Rural,Medium,7.43067029646555,Female,ST,Medium,8,1,Financial Problems
+School_639,551,Public,City,Medium,4.621274364450179,Male,General,Low,6,10,Financial Problems
+School_640,826,Government-Aided,Rural,High,6.051658019541368,Other,OBC,High,15,2,Health Issues
+School_641,919,Private,Rural,High,5.535842956223188,Other,ST,High,9,2,Family Issues
+School_642,66,Private,Rural,Medium,9.269461244477023,Other,General,Medium,8,1,Other
+School_643,874,Government-Aided,Town,High,2.2823242990746806,Other,General,Medium,11,3,Financial Problems
+School_644,584,Public,Town,Low,5.062962595511605,Female,ST,Medium,16,10,Financial Problems
+School_645,658,Private,Rural,High,2.698131085780954,Female,OBC,Low,6,5,Family Issues
+School_646,142,Government-Aided,Urban,Low,7.585567734488379,Other,SC,High,9,7,Financial Problems
+School_647,70,Public,Urban,Medium,8.521232105214816,Other,SC,Low,5,6,Other
+School_648,123,Public,City,Medium,7.797699139858182,Female,General,Medium,16,2,Lack of Interest
+School_649,762,Public,Town,High,7.7525878504338435,Other,ST,High,7,10,Family Issues
+School_650,354,Government-Aided,City,Low,4.850157310070712,Male,OBC,High,13,11,Other
+School_651,215,Private,Urban,High,5.295586711940371,Male,General,Medium,13,8,Lack of Interest
+School_652,951,Government-Aided,Urban,Medium,4.569459103636343,Other,SC,High,15,2,Family Issues
+School_653,138,Government-Aided,Urban,Medium,1.8358292420289783,Male,ST,High,9,3,Other
+School_654,433,Private,Rural,High,3.6179422929314327,Male,SC,Low,10,7,Health Issues
+School_655,792,Government-Aided,City,Medium,8.981072493036473,Male,OBC,Low,15,9,Health Issues
+School_656,117,Public,City,Low,4.994089990435075,Other,General,High,10,5,Financial Problems
+School_657,241,Private,Urban,Medium,8.829134654097778,Other,OBC,Medium,15,9,Health Issues
+School_658,656,Government-Aided,Rural,Low,9.464459431435397,Female,OBC,Low,7,4,Lack of Interest
+School_659,128,Public,Rural,High,7.568202670769405,Other,OBC,High,12,4,Financial Problems
+School_660,371,Government-Aided,Town,Medium,1.301918898730894,Other,SC,Medium,12,8,Other
+School_661,886,Private,Urban,High,1.344603898990451,Other,General,Low,5,3,Health Issues
+School_662,950,Public,Town,Medium,2.964257354707801,Other,OBC,High,15,8,Health Issues
+School_663,198,Government-Aided,City,High,4.184085386172342,Female,ST,Low,11,2,Other
+School_664,824,Private,City,Medium,1.7526458331329544,Other,ST,Medium,5,10,Family Issues
+School_665,809,Public,City,Low,6.256334680168359,Female,General,Low,8,9,Health Issues
+School_666,77,Private,Rural,Low,7.837593026736218,Other,SC,Medium,8,9,Family Issues
+School_667,73,Public,Rural,High,7.143187799878719,Male,SC,Medium,14,6,Other
+School_668,835,Public,Rural,Medium,1.8695764904335195,Female,General,Low,7,11,Lack of Interest
+School_669,758,Private,Town,High,5.255750359586453,Male,ST,Medium,9,6,Financial Problems
+School_670,191,Public,Town,Medium,9.728852592165767,Female,ST,High,9,3,Family Issues
+School_671,349,Government-Aided,City,High,3.694450116605191,Male,SC,High,5,11,Other
+School_672,487,Public,Urban,High,7.555033109233144,Other,ST,Medium,11,7,Lack of Interest
+School_673,217,Private,Town,Medium,9.00362205109949,Male,SC,Medium,16,6,Family Issues
+School_674,77,Public,Rural,High,3.8391380720917754,Female,General,Medium,13,12,Financial Problems
+School_675,873,Public,Urban,Low,3.2588788446107784,Female,General,Medium,18,6,Other
+School_676,497,Public,Rural,High,9.907136955483042,Female,General,Medium,12,3,Health Issues
+School_677,857,Private,Town,Medium,7.118734844487751,Other,SC,Medium,11,3,Other
+School_678,798,Private,Town,High,8.990972953289292,Male,SC,Low,12,5,Family Issues
+School_679,894,Private,Urban,High,5.227100984288049,Other,ST,Low,7,11,Other
+School_680,839,Government-Aided,Town,Low,1.4449779614651717,Other,General,Low,7,9,Lack of Interest
+School_681,275,Public,Rural,Low,2.372930593120889,Male,General,Medium,8,5,Financial Problems
+School_682,545,Public,Urban,High,2.659227682098104,Female,OBC,High,8,7,Health Issues
+School_683,565,Government-Aided,Urban,Medium,3.980396308837207,Male,General,Medium,6,3,Family Issues
+School_684,153,Government-Aided,City,Low,7.3184748531474995,Female,OBC,Low,13,6,Health Issues
+School_685,51,Government-Aided,Urban,Low,5.60223689900001,Male,SC,Medium,16,11,Financial Problems
+School_686,219,Government-Aided,Rural,High,7.438722189276209,Female,ST,Medium,16,11,Financial Problems
+School_687,871,Government-Aided,Town,Low,6.500243713078532,Female,SC,Medium,10,2,Lack of Interest
+School_688,306,Government-Aided,Rural,Low,2.7072048037027674,Other,General,Medium,11,3,Family Issues
+School_689,483,Private,Town,Low,7.30409365639587,Male,General,Low,8,12,Financial Problems
+School_690,300,Public,Town,Medium,9.865702293058002,Female,OBC,High,8,12,Health Issues
+School_691,997,Private,Town,Low,3.9688495164140454,Female,ST,Medium,17,5,Lack of Interest
+School_692,180,Public,Town,High,2.2363351016715445,Other,SC,Medium,5,1,Other
+School_693,681,Public,Town,High,4.436142510070859,Other,ST,High,9,8,Other
+School_694,670,Public,City,Low,4.888338926333443,Female,ST,Low,6,3,Lack of Interest
+School_695,953,Public,City,Medium,7.044128928511665,Other,ST,Medium,15,9,Other
+School_696,228,Government-Aided,City,Medium,5.524064561712243,Female,ST,Medium,13,5,Lack of Interest
+School_697,625,Private,Town,High,7.653540929963863,Other,SC,Low,12,7,Other
+School_698,430,Public,Urban,High,6.3629596075496195,Other,OBC,High,11,5,Financial Problems
+School_699,576,Public,City,Low,8.048269694289878,Male,ST,Low,18,2,Health Issues
+School_700,726,Private,City,Medium,3.118529160601606,Male,SC,Low,15,4,Family Issues
+School_701,773,Government-Aided,Town,High,8.89524336547486,Other,SC,Low,5,1,Health Issues
+School_702,181,Public,Urban,High,5.118619638493853,Female,OBC,Medium,17,1,Lack of Interest
+School_703,449,Private,Rural,Medium,4.415534350699411,Male,General,Medium,5,4,Health Issues
+School_704,539,Public,Urban,High,8.281681848590075,Male,OBC,Medium,11,2,Lack of Interest
+School_705,164,Public,Town,High,2.57848473738805,Female,General,High,15,4,Other
+School_706,650,Private,Town,Low,2.0578939901200672,Female,OBC,Medium,16,3,Lack of Interest
+School_707,357,Private,Rural,Low,2.1813632622492443,Female,OBC,Medium,14,9,Lack of Interest
+School_708,684,Private,Town,Low,2.783340655118056,Female,ST,Medium,11,4,Family Issues
+School_709,813,Private,Town,High,4.097653049343059,Female,ST,Medium,17,5,Financial Problems
+School_710,878,Government-Aided,Urban,Low,7.633255938290961,Other,SC,High,11,7,Other
+School_711,686,Private,Rural,Low,2.9679299821837493,Male,OBC,Medium,8,8,Financial Problems
+School_712,963,Private,Rural,Medium,1.0092684163065002,Male,SC,Low,13,2,Health Issues
+School_713,602,Public,City,Medium,1.2916777759743838,Female,OBC,Low,6,8,Lack of Interest
+School_714,645,Government-Aided,Rural,High,5.7855914215887445,Other,General,High,15,11,Financial Problems
+School_715,911,Government-Aided,City,Low,4.266213236900395,Male,SC,High,7,6,Health Issues
+School_716,137,Government-Aided,Rural,High,8.841001855607704,Other,General,Low,11,5,Financial Problems
+School_717,974,Government-Aided,Urban,Medium,3.7954716307602103,Other,OBC,Low,12,7,Other
+School_718,210,Public,Rural,High,4.122788514928071,Other,ST,Low,6,9,Financial Problems
+School_719,793,Government-Aided,Town,Low,5.253332455567805,Female,SC,High,7,5,Family Issues
+School_720,521,Government-Aided,Urban,Medium,2.082277289089996,Male,General,Medium,16,4,Lack of Interest
+School_721,220,Government-Aided,Town,High,9.48078052988283,Female,General,Medium,8,6,Other
+School_722,431,Public,Urban,Low,9.83937732945294,Other,SC,Low,5,3,Lack of Interest
+School_723,59,Public,Town,Low,9.504630797986309,Other,General,Low,16,12,Financial Problems
+School_724,272,Government-Aided,City,High,7.151576657799952,Female,General,Low,6,3,Health Issues
+School_725,800,Government-Aided,Town,Medium,7.9295864639335765,Male,OBC,High,7,5,Family Issues
+School_726,468,Public,Town,High,4.534112646143345,Female,ST,Medium,13,3,Other
+School_727,248,Private,City,Medium,8.846845510280195,Other,ST,Medium,8,11,Other
+School_728,215,Government-Aided,Urban,Medium,1.7521563473063588,Male,SC,Low,16,9,Health Issues
+School_729,866,Government-Aided,Rural,Medium,7.982933355840653,Other,OBC,Low,6,12,Financial Problems
+School_730,781,Private,City,High,6.579628574544513,Other,ST,Medium,5,1,Lack of Interest
+School_731,381,Government-Aided,Urban,Low,9.221001456128622,Male,OBC,High,8,1,Family Issues
+School_732,908,Government-Aided,Urban,Low,6.995177795071639,Female,ST,Low,17,8,Family Issues
+School_733,453,Public,City,High,5.676081434277757,Male,SC,Medium,16,10,Family Issues
+School_734,756,Public,Rural,High,5.402110193737025,Other,SC,Medium,11,2,Financial Problems
+School_735,292,Private,Urban,Low,4.191885212950157,Female,General,Medium,15,12,Health Issues
+School_736,279,Public,City,High,0.875953348343248,Other,SC,High,13,12,Health Issues
+School_737,511,Government-Aided,City,High,7.692086852848169,Male,SC,Medium,15,2,Other
+School_738,761,Government-Aided,Urban,Low,1.2692272838295189,Female,General,Low,16,2,Financial Problems
+School_739,569,Government-Aided,Town,Medium,4.734170944962498,Other,SC,Medium,9,12,Other
+School_740,144,Private,Town,Low,3.169496537426409,Female,OBC,High,12,4,Other
+School_741,732,Private,Urban,High,9.572047108417124,Female,General,Low,5,5,Health Issues
+School_742,819,Public,City,Medium,6.861926113331409,Other,SC,Medium,14,8,Health Issues
+School_743,847,Private,Rural,Medium,1.3939289937852262,Male,General,Low,12,11,Family Issues
+School_744,239,Public,City,High,5.669523129849517,Other,General,Medium,5,10,Lack of Interest
+School_745,476,Private,City,Medium,9.236570663944667,Female,SC,High,5,1,Lack of Interest
+School_746,133,Public,Town,Medium,9.70103421214762,Male,General,Medium,10,10,Financial Problems
+School_747,264,Government-Aided,City,Medium,9.989129063691543,Female,General,Medium,16,1,Family Issues
+School_748,397,Government-Aided,Rural,Medium,2.5131639409104887,Other,SC,Low,16,2,Other
+School_749,493,Public,Urban,Medium,6.229816315572115,Other,SC,Medium,15,3,Health Issues
+School_750,924,Government-Aided,Town,Medium,9.02264565895565,Other,SC,High,13,1,Lack of Interest
+School_751,527,Private,City,Medium,9.554204110984115,Male,OBC,Medium,15,4,Health Issues
+School_752,461,Government-Aided,Town,Low,7.144229728801314,Male,General,Medium,13,8,Family Issues
+School_753,261,Public,Town,High,8.195247057894683,Male,OBC,Medium,11,10,Family Issues
+School_754,430,Public,Urban,High,6.102089780155142,Male,SC,Medium,9,9,Health Issues
+School_755,626,Government-Aided,City,Low,1.9565848590897437,Other,OBC,Low,11,12,Lack of Interest
+School_756,868,Public,Urban,Medium,6.603961867944526,Other,SC,Medium,5,9,Family Issues
+School_757,71,Government-Aided,Town,Medium,6.926889112102786,Other,SC,Low,5,9,Financial Problems
+School_758,100,Government-Aided,Rural,Medium,6.208737986195921,Other,SC,High,9,9,Health Issues
+School_759,450,Government-Aided,City,Medium,9.817952861016753,Male,General,Medium,13,6,Other
+School_760,404,Private,Rural,Low,4.9657651888896535,Female,General,High,17,4,Financial Problems
+School_761,977,Private,Town,High,3.646521669899558,Other,OBC,Low,7,12,Financial Problems
+School_762,122,Public,Urban,Medium,5.6152102753416635,Male,ST,High,10,2,Lack of Interest
+School_763,499,Private,Rural,Low,9.300857707705086,Other,ST,Low,16,4,Lack of Interest
+School_764,647,Public,Rural,Low,9.21902423398594,Other,OBC,Medium,5,10,Other
+School_765,957,Public,Urban,Medium,7.967607112738161,Other,ST,Medium,8,7,Health Issues
+School_766,610,Private,Urban,Medium,9.212369265241755,Other,ST,Low,13,9,Financial Problems
+School_767,658,Private,City,High,4.57484631667053,Other,ST,High,16,3,Other
+School_768,410,Government-Aided,City,Medium,4.249045699234145,Female,General,Medium,14,11,Lack of Interest
+School_769,253,Private,Rural,High,6.985575742122125,Other,OBC,Medium,18,4,Lack of Interest
+School_770,886,Private,Town,High,3.653379567564086,Male,OBC,High,11,11,Family Issues
+School_771,550,Government-Aided,Rural,Low,8.425024213908411,Other,OBC,Low,5,12,Health Issues
+School_772,513,Government-Aided,Urban,High,1.5832984186839987,Male,ST,Medium,16,11,Health Issues
+School_773,552,Government-Aided,City,Medium,2.0207017491913337,Other,ST,Medium,11,6,Other
+School_774,452,Public,Urban,Low,9.72298565940954,Female,General,Low,11,5,Family Issues
+School_775,189,Government-Aided,Rural,Medium,5.290150650255398,Male,General,Medium,8,6,Other
+School_776,875,Government-Aided,Urban,Low,1.018117143869076,Male,OBC,Low,15,2,Other
+School_777,303,Government-Aided,Rural,High,4.714818547906078,Female,ST,Medium,10,5,Financial Problems
+School_778,989,Government-Aided,Town,High,8.700637937045052,Male,SC,Medium,11,3,Financial Problems
+School_779,804,Public,Urban,High,5.428593434723594,Other,General,Medium,9,9,Health Issues
+School_780,682,Public,Urban,Medium,6.377833751430723,Female,OBC,High,13,3,Health Issues
+School_781,558,Government-Aided,Town,High,8.185861007648636,Female,SC,Low,16,10,Health Issues
+School_782,247,Public,Rural,Medium,4.786095815924552,Other,ST,High,9,10,Family Issues
+School_783,599,Public,Urban,Medium,8.440270251288545,Male,OBC,Low,16,7,Other
+School_784,535,Private,Rural,High,5.662459383334264,Female,General,Medium,5,8,Family Issues
+School_785,918,Private,City,Low,3.2980675951987397,Male,General,High,16,9,Financial Problems
+School_786,600,Private,City,Low,6.342307210762996,Other,OBC,Low,14,3,Health Issues
+School_787,160,Public,Urban,Low,3.23446800677776,Male,OBC,Medium,5,4,Financial Problems
+School_788,233,Government-Aided,Town,Medium,3.255536039585183,Other,OBC,Medium,7,4,Other
+School_789,586,Government-Aided,Urban,Low,1.3750592621428717,Other,General,High,10,12,Other
+School_790,138,Private,City,Medium,2.8590179912296914,Other,General,High,6,11,Health Issues
+School_791,979,Government-Aided,Rural,High,2.836292211275386,Male,OBC,Low,11,11,Health Issues
+School_792,607,Government-Aided,Town,Medium,1.2734540415571862,Other,General,High,12,4,Other
+School_793,788,Private,Town,Low,1.9988531072385762,Male,SC,Low,18,8,Financial Problems
+School_794,184,Government-Aided,Urban,Low,4.546111739125193,Other,SC,Medium,11,8,Financial Problems
+School_795,64,Public,City,Medium,5.694488098788988,Female,SC,Low,12,8,Other
+School_796,310,Public,City,High,8.008683228211916,Male,OBC,Medium,9,7,Financial Problems
+School_797,741,Public,Town,Low,9.036743799245693,Male,SC,Low,13,8,Other
+School_798,263,Public,Urban,Low,2.5162735792932023,Female,ST,Medium,12,8,Health Issues
+School_799,611,Government-Aided,City,Low,1.3471581401927832,Other,SC,Low,7,3,Other
+School_800,676,Government-Aided,City,Medium,3.4447922661102144,Female,SC,Medium,16,5,Family Issues
+School_801,375,Government-Aided,Town,Medium,2.42918259458405,Male,ST,Low,14,5,Health Issues
+School_802,746,Public,City,Low,3.8278290867060347,Female,ST,Medium,10,1,Health Issues
+School_803,360,Private,City,Low,7.650250674920329,Female,SC,High,6,1,Lack of Interest
+School_804,307,Private,Urban,Low,1.4001544431358077,Female,ST,High,18,4,Health Issues
+School_805,243,Government-Aided,City,High,9.926533819339031,Female,General,Medium,14,7,Financial Problems
+School_806,583,Public,Urban,High,3.8743618794791117,Female,ST,High,10,2,Lack of Interest
+School_807,737,Public,Rural,Medium,1.4558218660153295,Male,ST,Low,16,2,Lack of Interest
+School_808,420,Private,Urban,Low,4.839365450514598,Male,ST,Low,17,10,Financial Problems
+School_809,178,Public,City,Medium,7.273558940204946,Other,SC,Medium,6,5,Family Issues
+School_810,451,Public,Town,High,5.7530961787951265,Male,ST,Medium,5,1,Family Issues
+School_811,915,Private,Urban,High,4.5009295576750015,Male,SC,Low,14,4,Lack of Interest
+School_812,326,Government-Aided,City,High,9.594480087689355,Other,ST,Medium,18,5,Other
+School_813,703,Private,Rural,Medium,6.520527784206093,Other,SC,Medium,15,12,Lack of Interest
+School_814,840,Government-Aided,Rural,Medium,8.280470201661291,Male,ST,Low,5,4,Health Issues
+School_815,124,Public,Rural,Low,5.5218811568173995,Other,General,High,6,6,Financial Problems
+School_816,373,Public,Urban,Medium,2.4098488586991467,Other,General,Medium,13,5,Financial Problems
+School_817,701,Public,Rural,Medium,6.36557464171832,Male,General,Low,8,5,Financial Problems
+School_818,105,Government-Aided,Town,High,8.098240925522683,Female,SC,Low,8,6,Financial Problems
+School_819,793,Public,Town,Low,3.402733027317579,Other,ST,Low,16,7,Health Issues
+School_820,787,Public,Town,Medium,9.87420002511916,Female,ST,High,17,4,Other
+School_821,928,Private,Urban,Medium,5.207977344862993,Other,ST,High,6,4,Health Issues
+School_822,498,Government-Aided,City,Medium,3.3403562011966415,Other,OBC,Low,12,12,Lack of Interest
+School_823,667,Private,Town,Medium,0.6746099211636536,Male,OBC,High,9,1,Other
+School_824,729,Private,Town,High,3.0395152116232382,Other,SC,High,5,7,Health Issues
+School_825,500,Government-Aided,City,Low,9.7743307000603,Female,ST,Medium,17,2,Other
+School_826,106,Government-Aided,Rural,Low,9.207448935029758,Male,SC,Low,15,12,Health Issues
+School_827,725,Public,Rural,Low,2.6560140502337535,Female,General,High,11,2,Health Issues
+School_828,177,Government-Aided,Rural,High,1.554332869067416,Other,OBC,High,12,8,Family Issues
+School_829,100,Private,Urban,Medium,3.3651481556088267,Other,SC,Low,18,1,Financial Problems
+School_830,279,Private,Urban,Low,6.662899438894355,Female,General,Medium,14,9,Health Issues
+School_831,636,Public,Rural,Medium,7.442912859009132,Female,SC,High,5,12,Family Issues
+School_832,164,Public,Urban,High,5.7691282516005895,Male,General,Low,15,4,Lack of Interest
+School_833,981,Government-Aided,Rural,Medium,9.070062663163837,Male,ST,Medium,11,8,Family Issues
+School_834,70,Public,Urban,High,5.804127171253299,Male,SC,Medium,16,8,Lack of Interest
+School_835,113,Public,City,High,4.02883434141696,Other,SC,Medium,7,12,Health Issues
+School_836,488,Public,Urban,High,6.575330670000109,Male,SC,Medium,12,3,Lack of Interest
+School_837,307,Public,Rural,Low,5.505464557842665,Female,General,High,9,6,Family Issues
+School_838,876,Public,Urban,Low,4.28483616911174,Female,OBC,High,16,5,Financial Problems
+School_839,653,Private,Rural,Medium,7.807091898152789,Female,General,High,6,10,Family Issues
+School_840,985,Government-Aided,Rural,Medium,6.27261733686573,Male,SC,High,8,10,Other
+School_841,365,Government-Aided,Rural,Low,7.611065651427336,Female,SC,Low,5,11,Health Issues
+School_842,614,Public,City,Low,0.9640574122125739,Male,General,Medium,9,6,Other
+School_843,191,Public,Town,Medium,5.469048432049031,Other,OBC,Low,11,1,Other
+School_844,356,Private,Town,Low,6.419073115529829,Male,OBC,High,10,2,Financial Problems
+School_845,889,Private,Rural,Medium,3.1877651063922734,Male,ST,Medium,13,12,Other
+School_846,963,Government-Aided,City,Medium,9.674132891914715,Other,General,High,9,6,Health Issues
+School_847,438,Public,Urban,Low,6.496834189633205,Female,ST,Medium,5,10,Health Issues
+School_848,369,Private,Urban,High,9.628046509669034,Female,OBC,High,9,3,Other
+School_849,732,Private,Urban,High,0.6386854260517585,Female,ST,Medium,16,2,Other
+School_850,922,Public,Rural,Low,9.192045869441241,Other,SC,Low,10,8,Other
+School_851,112,Government-Aided,City,Low,6.029825946971358,Other,SC,Medium,16,7,Other
+School_852,80,Public,Rural,Low,8.467265491164902,Female,ST,High,6,4,Other
+School_853,156,Public,City,High,3.637115727336098,Female,OBC,Medium,15,7,Financial Problems
+School_854,267,Government-Aided,Urban,Medium,7.020611214003145,Male,General,High,14,10,Family Issues
+School_855,364,Private,Town,High,3.664533536668253,Male,SC,High,9,4,Family Issues
+School_856,980,Private,City,Low,6.010171604544068,Other,SC,Medium,7,11,Other
+School_857,545,Government-Aided,Town,Medium,0.847171712769866,Female,ST,High,14,4,Family Issues
+School_858,463,Private,City,High,2.382387081716809,Female,ST,Low,9,1,Other
+School_859,237,Government-Aided,Urban,High,0.6737607873594424,Other,OBC,Low,17,6,Lack of Interest
+School_860,208,Private,Town,Low,6.100158507264976,Male,ST,High,8,10,Lack of Interest
+School_861,639,Public,Town,Medium,9.74172072737149,Male,SC,Low,9,6,Other
+School_862,558,Private,Rural,Low,8.339835880466946,Female,OBC,Medium,8,11,Other
+School_863,88,Private,Rural,Medium,1.5769076565020512,Other,General,High,17,10,Health Issues
+School_864,463,Public,Town,Medium,9.1425848983884,Other,SC,Low,18,1,Financial Problems
+School_865,562,Public,Town,High,8.742054690368612,Other,ST,High,9,10,Health Issues
+School_866,778,Public,Town,Medium,4.0986658355789825,Male,ST,Medium,16,5,Lack of Interest
+School_867,181,Public,Rural,High,2.5029640149613375,Other,SC,Low,14,4,Health Issues
+School_868,413,Private,Urban,Medium,1.3717745392523053,Female,ST,High,12,4,Financial Problems
+School_869,627,Public,Rural,Low,2.5884209865309384,Other,ST,High,16,12,Financial Problems
+School_870,633,Private,City,Low,8.864698732196723,Other,General,Medium,12,3,Financial Problems
+School_871,313,Government-Aided,City,High,4.141161795869763,Male,SC,Low,8,7,Financial Problems
+School_872,277,Public,Rural,High,7.221813419459295,Other,ST,High,13,7,Health Issues
+School_873,101,Private,Rural,High,0.9364104483519029,Male,General,Medium,13,1,Lack of Interest
+School_874,783,Private,Urban,Medium,9.720539835298675,Other,ST,Low,14,10,Other
+School_875,590,Private,City,High,8.241523315392683,Male,General,Low,18,11,Other
+School_876,599,Government-Aided,Urban,Medium,0.618975091792979,Female,SC,Medium,11,11,Health Issues
+School_877,105,Public,Urban,Low,7.068756069333314,Female,ST,High,6,9,Financial Problems
+School_878,166,Government-Aided,Rural,Medium,8.947758988877652,Male,OBC,High,12,2,Health Issues
+School_879,156,Private,City,Medium,6.2720816676066695,Female,General,Low,13,3,Lack of Interest
+School_880,397,Government-Aided,Rural,Medium,0.738716569736358,Other,SC,Low,15,3,Other
+School_881,464,Public,Rural,High,6.98134436983688,Female,ST,Low,6,10,Financial Problems
+School_882,943,Government-Aided,Rural,Medium,7.0558772769753695,Other,OBC,Low,7,2,Health Issues
+School_883,853,Government-Aided,City,High,3.372802695096576,Female,ST,Medium,17,2,Lack of Interest
+School_884,974,Private,Rural,High,8.670488197091391,Female,OBC,Low,12,6,Family Issues
+School_885,518,Private,Town,High,4.522982372406463,Male,ST,Low,5,4,Health Issues
+School_886,928,Government-Aided,Town,Low,2.6781751653316945,Female,General,Medium,7,5,Health Issues
+School_887,849,Private,Town,Medium,6.523839124294102,Other,General,Medium,14,8,Lack of Interest
+School_888,101,Public,City,Medium,4.076521483528362,Other,OBC,Medium,15,7,Financial Problems
+School_889,91,Private,Rural,Low,6.925800025272975,Female,SC,Medium,12,6,Family Issues
+School_890,961,Government-Aided,City,Medium,9.416151627885265,Other,General,Low,18,9,Lack of Interest
+School_891,630,Government-Aided,Rural,Medium,8.170883864896787,Male,General,Low,5,10,Health Issues
+School_892,700,Government-Aided,Rural,Medium,8.594846783105158,Male,SC,High,12,1,Lack of Interest
+School_893,512,Government-Aided,Rural,Low,9.025642289306303,Female,OBC,Low,13,10,Financial Problems
+School_894,240,Government-Aided,Urban,High,8.056496301277395,Female,ST,High,10,4,Family Issues
+School_895,506,Private,City,High,6.110501863083706,Male,OBC,Medium,17,8,Health Issues
+School_896,404,Private,Urban,Medium,8.072708363431707,Female,ST,Medium,11,8,Health Issues
+School_897,978,Government-Aided,Urban,Medium,2.337587923727508,Male,General,High,12,5,Health Issues
+School_898,703,Public,Urban,High,1.692434111010346,Other,SC,High,8,4,Other
+School_899,529,Government-Aided,Town,Low,9.260842076649709,Female,OBC,Low,9,11,Financial Problems
+School_900,489,Public,City,Medium,1.3551343191719363,Female,General,Low,5,12,Other
+School_901,318,Public,Urban,Medium,2.9555511991496966,Female,General,High,6,6,Lack of Interest
+School_902,480,Public,Urban,Medium,8.449995797178186,Male,SC,Medium,18,2,Health Issues
+School_903,710,Private,City,High,3.0147024721684623,Female,SC,Medium,14,4,Other
+School_904,756,Government-Aided,Town,Medium,6.4960566478472055,Male,OBC,Medium,8,9,Financial Problems
+School_905,258,Government-Aided,Rural,Medium,5.99589908010351,Other,ST,Medium,15,12,Lack of Interest
+School_906,82,Public,Urban,Low,1.569556227464807,Other,SC,Low,18,10,Financial Problems
+School_907,426,Private,Town,Medium,2.7345346268989354,Female,OBC,Low,6,10,Lack of Interest
+School_908,589,Private,Urban,Low,9.933652386395373,Other,SC,High,18,3,Family Issues
+School_909,694,Government-Aided,Urban,Low,3.607678856467877,Male,OBC,Medium,12,9,Health Issues
+School_910,561,Public,City,Medium,8.012518114842171,Other,SC,High,17,11,Other
+School_911,208,Private,Rural,Medium,7.395584282397714,Other,ST,High,14,7,Lack of Interest
+School_912,121,Government-Aided,City,High,5.562082038098898,Female,ST,High,8,3,Health Issues
+School_913,344,Private,Urban,High,2.306131732727086,Female,ST,High,5,8,Family Issues
+School_914,483,Public,City,Medium,3.494671894872833,Male,ST,High,18,11,Health Issues
+School_915,502,Private,Urban,High,8.47164311924295,Male,General,Medium,10,4,Lack of Interest
+School_916,813,Public,Urban,Low,2.7392852506511325,Male,General,High,13,9,Financial Problems
+School_917,925,Private,Urban,High,2.119994848004713,Female,General,Medium,14,5,Other
+School_918,586,Private,City,Low,0.8254368801962622,Male,SC,Medium,15,7,Health Issues
+School_919,621,Public,Town,Low,5.4611575948802304,Other,SC,Medium,11,1,Family Issues
+School_920,822,Government-Aided,Rural,High,6.736982118390069,Other,ST,Low,14,4,Other
+School_921,898,Public,Urban,Medium,2.409223554220333,Other,SC,High,7,9,Family Issues
+School_922,675,Government-Aided,Town,High,1.3761854944367151,Female,General,Low,13,1,Other
+School_923,621,Government-Aided,Rural,High,8.893644154841246,Female,SC,Medium,7,5,Health Issues
+School_924,547,Government-Aided,City,Medium,4.883048348178857,Male,ST,Low,15,8,Health Issues
+School_925,785,Public,Town,High,4.16670040573865,Other,ST,Medium,11,11,Financial Problems
+School_926,980,Government-Aided,Urban,Medium,2.568963975700755,Male,ST,Medium,14,1,Health Issues
+School_927,142,Public,Urban,Medium,9.629011792583634,Female,SC,Low,5,8,Other
+School_928,769,Public,City,Low,4.39827894517265,Female,SC,Medium,18,9,Family Issues
+School_929,991,Private,Town,High,9.83705990943278,Female,ST,Low,12,8,Financial Problems
+School_930,427,Private,Urban,Medium,5.220094103397331,Female,General,Low,16,11,Family Issues
+School_931,643,Private,Rural,Low,7.162687239862263,Male,General,Medium,10,5,Health Issues
+School_932,311,Private,Rural,High,2.413230452296135,Male,General,Medium,18,4,Other
+School_933,974,Government-Aided,Rural,Medium,7.929489991903094,Other,General,High,17,1,Health Issues
+School_934,877,Government-Aided,City,Low,6.087314685173774,Other,ST,Low,5,10,Family Issues
+School_935,642,Government-Aided,City,Low,2.932686469278355,Other,General,Low,18,2,Financial Problems
+School_936,950,Public,Urban,High,7.257385217928637,Female,OBC,High,6,11,Financial Problems
+School_937,626,Private,Town,High,2.475181811620285,Female,SC,Medium,8,5,Financial Problems
+School_938,529,Public,City,Medium,5.236686302780957,Male,ST,High,6,11,Financial Problems
+School_939,907,Private,Town,Medium,3.228115109768083,Male,ST,Low,18,7,Other
+School_940,329,Private,Rural,Medium,1.0625846691524752,Other,OBC,High,10,8,Health Issues
+School_941,442,Government-Aided,Urban,High,7.889567943167293,Female,OBC,Medium,9,7,Lack of Interest
+School_942,670,Government-Aided,Town,Low,6.925183349607316,Male,General,Medium,5,1,Family Issues
+School_943,345,Private,City,Medium,5.465549427144,Female,SC,Low,9,1,Family Issues
+School_944,872,Public,Rural,High,2.2346951735800253,Other,ST,Medium,6,2,Other
+School_945,194,Government-Aided,City,Low,7.619537917635052,Female,General,High,13,8,Health Issues
+School_946,345,Public,City,High,7.233620165019915,Male,ST,High,17,9,Financial Problems
+School_947,208,Government-Aided,Urban,High,3.5092276709338543,Female,ST,High,9,9,Health Issues
+School_948,735,Private,Urban,Medium,3.4626711198428284,Male,ST,Medium,6,9,Lack of Interest
+School_949,695,Private,Rural,High,1.034713793635915,Other,SC,High,5,7,Health Issues
+School_950,371,Public,Urban,High,0.6650663896179201,Female,SC,Low,5,10,Family Issues
+School_951,389,Government-Aided,Urban,Medium,8.870544063595668,Male,General,Low,18,8,Health Issues
+School_952,431,Public,Rural,High,1.4571035968718702,Female,ST,Medium,14,4,Financial Problems
+School_953,341,Government-Aided,Rural,High,3.8051374993908276,Male,OBC,Medium,18,10,Other
+School_954,778,Government-Aided,Town,Medium,8.327954949394673,Male,ST,Low,17,11,Other
+School_955,390,Private,City,Medium,5.291762995208998,Other,SC,High,18,2,Family Issues
+School_956,133,Government-Aided,City,Low,1.5640217995445331,Male,SC,Low,5,10,Health Issues
+School_957,240,Public,Urban,Medium,3.9084829774528673,Female,SC,Low,5,3,Health Issues
+School_958,889,Government-Aided,Rural,Low,7.791008102144616,Male,General,Medium,7,6,Lack of Interest
+School_959,193,Public,City,Low,3.9096261562473944,Female,ST,Low,7,12,Family Issues
+School_960,152,Government-Aided,Town,High,7.643918415999494,Male,SC,Medium,16,1,Financial Problems
+School_961,211,Public,Town,Low,7.888553993368306,Other,General,Medium,8,6,Health Issues
+School_962,88,Public,City,Low,7.70399850345614,Female,ST,Low,7,7,Lack of Interest
+School_963,66,Private,Urban,Medium,5.295751406983249,Male,OBC,Low,18,12,Other
+School_964,700,Government-Aided,Town,Low,8.530964430089927,Male,SC,Medium,16,5,Other
+School_965,543,Private,Rural,High,3.0233313781886206,Male,SC,Medium,9,9,Family Issues
+School_966,662,Public,Town,Low,1.497068186561536,Male,ST,High,11,1,Financial Problems
+School_967,928,Public,Rural,High,9.582227138905777,Male,ST,Low,7,3,Health Issues
+School_968,790,Government-Aided,Rural,High,7.827495998996062,Female,ST,Medium,18,7,Family Issues
+School_969,290,Public,Rural,Low,5.404454352596427,Male,ST,Low,13,3,Family Issues
+School_970,373,Government-Aided,City,Low,2.24000684000387,Male,General,Low,9,5,Financial Problems
+School_971,130,Private,Urban,Medium,8.668384619886902,Male,General,Medium,18,7,Family Issues
+School_972,489,Private,Town,Medium,2.8860190667109866,Male,General,Low,6,2,Family Issues
+School_973,671,Public,Urban,Low,1.6089252463989363,Male,OBC,High,5,3,Lack of Interest
+School_974,491,Public,Town,Medium,5.959015572256132,Female,SC,Low,17,9,Family Issues
+School_975,665,Private,Rural,Medium,6.509263753091196,Female,SC,High,7,1,Family Issues
+School_976,749,Government-Aided,City,High,4.442644875645207,Male,OBC,High,11,2,Other
+School_977,450,Government-Aided,Rural,High,2.014683335854907,Male,SC,Low,18,8,Lack of Interest
+School_978,208,Private,City,Low,8.196915824705272,Male,General,Medium,6,3,Other
+School_979,69,Private,Urban,Medium,8.031080673188157,Female,OBC,Low,5,6,Health Issues
+School_980,525,Private,Rural,Medium,8.355687057161276,Female,ST,Low,12,3,Other
+School_981,973,Public,Rural,Low,5.253614262037024,Other,SC,Low,15,8,Financial Problems
+School_982,804,Government-Aided,City,High,1.9392445249908041,Other,General,High,10,4,Financial Problems
+School_983,476,Public,Rural,Medium,1.3447073642315712,Female,General,Low,16,7,Lack of Interest
+School_984,229,Private,Urban,Low,6.817045621004417,Female,ST,Low,7,8,Financial Problems
+School_985,750,Government-Aided,City,High,6.024056996155949,Other,OBC,High,13,10,Financial Problems
+School_986,521,Government-Aided,Rural,High,9.838176136145881,Other,General,Medium,5,2,Other
+School_987,69,Private,Urban,Low,8.184170015388458,Male,ST,Medium,11,5,Financial Problems
+School_988,922,Public,Urban,High,3.041339980080967,Male,SC,Low,7,1,Family Issues
+School_989,557,Private,Town,High,1.7174296068048176,Female,General,Low,15,4,Other
+School_990,191,Public,Rural,Low,7.028086704831959,Female,General,High,17,1,Health Issues
+School_991,690,Government-Aided,Town,Medium,2.8062189289333106,Male,General,High,16,4,Other
+School_992,860,Government-Aided,Town,Medium,1.3922619155611708,Male,OBC,Low,11,9,Lack of Interest
+School_993,985,Public,Rural,Low,5.228493768115421,Male,General,Medium,13,3,Health Issues
+School_994,528,Government-Aided,Rural,Medium,0.5615355256423136,Other,General,High,17,3,Lack of Interest
+School_995,223,Public,Town,Medium,1.9691039311956082,Other,General,Medium,12,4,Financial Problems
+School_996,322,Public,Urban,Medium,6.95587593832467,Female,ST,Medium,16,7,Health Issues
+School_997,712,Private,Urban,Medium,4.516821422334063,Female,OBC,Low,5,8,Lack of Interest
+School_998,161,Private,Urban,Low,3.674775108711067,Female,SC,Low,17,11,Other
+School_999,501,Government-Aided,Town,Medium,2.057355447882175,Other,ST,High,10,9,Lack of Interest
+School_1000,911,Government-Aided,City,Low,5.5687863343752175,Female,SC,Low,15,12,Financial Problems
